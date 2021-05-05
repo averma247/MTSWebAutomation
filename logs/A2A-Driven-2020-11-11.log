@@ -1,0 +1,519 @@
+2020-11-11 20:20:20.036 INFO  reporter.Reporter - TestCase:- verifyTempratureSearchOnGUIPhase1() Started
+2020-11-11 20:20:20.055 INFO  reporter.Utils - Move Report to zip file
+2020-11-11 20:20:22.088 DEBUG com.mts.pages.BasePage - Entering Textbox at location: By.id: LocationSearch_input
+2020-11-11 20:20:22.227 DEBUG com.mts.pages.BasePage - Checking for element is present at location: By.xpath: //div[contains(text(),'No results found')]
+2020-11-11 20:20:27.428 DEBUG com.mts.pages.BasePage - Clicking on button at location: By.xpath: //button[@id='LocationSearch_listbox-0']
+2020-11-11 20:20:29.683 DEBUG com.mts.pages.BasePage - Getting Text value from: By.xpath: //span[contains(@class,'CurrentConditions--tempValue')]
+2020-11-11 20:20:29.775 INFO  reporter.Reporter - Current Temprature of City on UI: Delhi is 70°F
+2020-11-11 20:20:29.775 INFO  reporter.Reporter - TestCase:- verifyTempratureSearchOnGUIPhase1() Started
+2020-11-11 20:20:31.044 DEBUG com.mts.pages.BasePage - Entering Textbox at location: By.id: LocationSearch_input
+2020-11-11 20:20:31.231 DEBUG com.mts.pages.BasePage - Checking for element is present at location: By.xpath: //div[contains(text(),'No results found')]
+2020-11-11 20:20:36.379 DEBUG com.mts.pages.BasePage - Clicking on button at location: By.xpath: //button[@id='LocationSearch_listbox-0']
+2020-11-11 20:20:37.888 DEBUG com.mts.pages.BasePage - Getting Text value from: By.xpath: //span[contains(@class,'CurrentConditions--tempValue')]
+2020-11-11 20:20:37.969 INFO  reporter.Reporter - Current Temprature of City on UI: Tokyo is 49°F
+2020-11-11 20:20:37.969 INFO  reporter.Reporter - TestCase:- verifyTempratureSearchOnGUIPhase1() Started
+2020-11-11 20:20:38.691 DEBUG com.mts.pages.BasePage - Entering Textbox at location: By.id: LocationSearch_input
+2020-11-11 20:20:38.827 DEBUG com.mts.pages.BasePage - Checking for element is present at location: By.xpath: //div[contains(text(),'No results found')]
+2020-11-11 20:20:43.969 DEBUG com.mts.pages.BasePage - Clicking on button at location: By.xpath: //button[@id='LocationSearch_listbox-0']
+2020-11-11 20:20:45.479 DEBUG com.mts.pages.BasePage - Getting Text value from: By.xpath: //span[contains(@class,'CurrentConditions--tempValue')]
+2020-11-11 20:20:45.552 INFO  reporter.Reporter - Current Temprature of City on UI: Indore is 67°F
+2020-11-11 20:20:45.552 INFO  reporter.Reporter - TestCase:- verifyTempratureSearchOnGUIPhase1() Started
+2020-11-11 20:20:46.244 DEBUG com.mts.pages.BasePage - Entering Textbox at location: By.id: LocationSearch_input
+2020-11-11 20:20:46.455 DEBUG com.mts.pages.BasePage - Checking for element is present at location: By.xpath: //div[contains(text(),'No results found')]
+2020-11-11 20:20:51.617 DEBUG com.mts.pages.BasePage - Clicking on button at location: By.xpath: //button[@id='LocationSearch_listbox-0']
+2020-11-11 20:20:54.909 DEBUG com.mts.pages.BasePage - Getting Text value from: By.xpath: //span[contains(@class,'CurrentConditions--tempValue')]
+2020-11-11 20:20:54.992 INFO  reporter.Reporter - Current Temprature of City on UI: Mumbai is 84°F
+2020-11-11 20:20:54.992 INFO  reporter.Reporter - TestCase:- verifyTempratureSearchOnGUIPhase1() Started
+2020-11-11 20:20:55.783 DEBUG com.mts.pages.BasePage - Entering Textbox at location: By.id: LocationSearch_input
+2020-11-11 20:20:56.005 DEBUG com.mts.pages.BasePage - Checking for element is present at location: By.xpath: //div[contains(text(),'No results found')]
+2020-11-11 20:21:01.160 DEBUG com.mts.pages.BasePage - Clicking on button at location: By.xpath: //button[@id='LocationSearch_listbox-0']
+2020-11-11 20:21:02.592 DEBUG com.mts.pages.BasePage - Getting Text value from: By.xpath: //span[contains(@class,'CurrentConditions--tempValue')]
+2020-11-11 20:21:02.676 INFO  reporter.Reporter - Current Temprature of City on UI: Kolkata is 79°F
+2020-11-11 20:21:02.676 INFO  reporter.Reporter - TestCase:- verifyTempratureSearchOnGUIPhase1() Started
+2020-11-11 20:21:04.061 DEBUG com.mts.pages.BasePage - Entering Textbox at location: By.id: LocationSearch_input
+2020-11-11 20:21:04.229 DEBUG com.mts.pages.BasePage - Checking for element is present at location: By.xpath: //div[contains(text(),'No results found')]
+2020-11-11 20:27:42.320 INFO  reporter.Reporter - TestCase:- verifyTempratureSearchOnGUIPhase1() Cityname: Delhi Started
+2020-11-11 20:27:42.334 INFO  reporter.Utils - Move Report to zip file
+2020-11-11 20:27:44.346 DEBUG com.mts.pages.BasePage - Entering Textbox at location: By.id: LocationSearch_input
+2020-11-11 20:27:44.478 DEBUG com.mts.pages.BasePage - Checking for element is present at location: By.xpath: //div[contains(text(),'No results found')]
+2020-11-11 20:27:49.657 DEBUG com.mts.pages.BasePage - Clicking on button at location: By.xpath: //button[@id='LocationSearch_listbox-0']
+2020-11-11 20:27:51.797 DEBUG com.mts.pages.BasePage - Getting Text value from: By.xpath: //span[contains(@class,'CurrentConditions--tempValue')]
+2020-11-11 20:27:51.886 INFO  reporter.Reporter - Current Temprature of City on UI: Delhi is 69°F
+2020-11-11 20:27:51.886 INFO  reporter.Reporter - TestCase:- verifyTempratureSearchOnGUIPhase1() Cityname: Tokyo Started
+2020-11-11 20:27:53.230 DEBUG com.mts.pages.BasePage - Entering Textbox at location: By.id: LocationSearch_input
+2020-11-11 20:27:53.430 DEBUG com.mts.pages.BasePage - Checking for element is present at location: By.xpath: //div[contains(text(),'No results found')]
+2020-11-11 20:27:58.645 DEBUG com.mts.pages.BasePage - Clicking on button at location: By.xpath: //button[@id='LocationSearch_listbox-0']
+2020-11-11 20:28:00.550 DEBUG com.mts.pages.BasePage - Getting Text value from: By.xpath: //span[contains(@class,'CurrentConditions--tempValue')]
+2020-11-11 20:28:00.632 INFO  reporter.Reporter - Current Temprature of City on UI: Tokyo is 49°F
+2020-11-11 20:28:00.632 INFO  reporter.Reporter - TestCase:- verifyTempratureSearchOnGUIPhase1() Cityname: Indore Started
+2020-11-11 20:28:01.870 DEBUG com.mts.pages.BasePage - Entering Textbox at location: By.id: LocationSearch_input
+2020-11-11 20:28:02.049 DEBUG com.mts.pages.BasePage - Checking for element is present at location: By.xpath: //div[contains(text(),'No results found')]
+2020-11-11 20:28:07.284 DEBUG com.mts.pages.BasePage - Clicking on button at location: By.xpath: //button[@id='LocationSearch_listbox-0']
+2020-11-11 20:28:09.952 DEBUG com.mts.pages.BasePage - Getting Text value from: By.xpath: //span[contains(@class,'CurrentConditions--tempValue')]
+2020-11-11 20:28:10.078 INFO  reporter.Reporter - Current Temprature of City on UI: Indore is 67°F
+2020-11-11 20:28:10.079 INFO  reporter.Reporter - TestCase:- verifyTempratureSearchOnGUIPhase1() Cityname: Mumbai Started
+2020-11-11 20:28:11.784 DEBUG com.mts.pages.BasePage - Entering Textbox at location: By.id: LocationSearch_input
+2020-11-11 20:28:11.927 DEBUG com.mts.pages.BasePage - Checking for element is present at location: By.xpath: //div[contains(text(),'No results found')]
+2020-11-11 20:28:17.089 DEBUG com.mts.pages.BasePage - Clicking on button at location: By.xpath: //button[@id='LocationSearch_listbox-0']
+2020-11-11 20:28:20.205 DEBUG com.mts.pages.BasePage - Getting Text value from: By.xpath: //span[contains(@class,'CurrentConditions--tempValue')]
+2020-11-11 20:28:20.278 INFO  reporter.Reporter - Current Temprature of City on UI: Mumbai is 84°F
+2020-11-11 20:28:20.278 INFO  reporter.Reporter - TestCase:- verifyTempratureSearchOnGUIPhase1() Cityname: Kolkata Started
+2020-11-11 20:28:21.662 DEBUG com.mts.pages.BasePage - Entering Textbox at location: By.id: LocationSearch_input
+2020-11-11 20:28:21.802 DEBUG com.mts.pages.BasePage - Checking for element is present at location: By.xpath: //div[contains(text(),'No results found')]
+2020-11-11 20:28:26.934 DEBUG com.mts.pages.BasePage - Clicking on button at location: By.xpath: //button[@id='LocationSearch_listbox-0']
+2020-11-11 20:28:29.524 DEBUG com.mts.pages.BasePage - Getting Text value from: By.xpath: //span[contains(@class,'CurrentConditions--tempValue')]
+2020-11-11 20:28:29.602 INFO  reporter.Reporter - Current Temprature of City on UI: Kolkata is 79°F
+2020-11-11 20:28:29.603 INFO  reporter.Reporter - TestCase:- verifyTempratureSearchOnGUIPhase1() Cityname: New york Started
+2020-11-11 20:28:30.937 DEBUG com.mts.pages.BasePage - Entering Textbox at location: By.id: LocationSearch_input
+2020-11-11 20:28:31.068 DEBUG com.mts.pages.BasePage - Checking for element is present at location: By.xpath: //div[contains(text(),'No results found')]
+2020-11-11 20:28:36.266 DEBUG com.mts.pages.BasePage - Clicking on button at location: By.xpath: //button[@id='LocationSearch_listbox-0']
+2020-11-11 20:28:38.806 DEBUG com.mts.pages.BasePage - Getting Text value from: By.xpath: //span[contains(@class,'CurrentConditions--tempValue')]
+2020-11-11 20:28:38.950 INFO  reporter.Reporter - Current Temprature of City on UI: New york is 68°F
+2020-11-11 20:28:38.950 INFO  reporter.Reporter - TestCase:- verifyTempratureSearchOnGUIPhase1() Cityname: Texas Started
+2020-11-11 20:28:39.070 DEBUG com.mts.pages.BasePage - Entering Textbox at location: By.id: LocationSearch_input
+2020-11-11 20:28:39.203 DEBUG com.mts.pages.BasePage - Checking for element is present at location: By.xpath: //div[contains(text(),'No results found')]
+2020-11-11 20:28:44.354 DEBUG com.mts.pages.BasePage - Clicking on button at location: By.xpath: //button[@id='LocationSearch_listbox-0']
+2020-11-11 20:28:45.026 DEBUG com.mts.pages.BasePage - Getting Text value from: By.xpath: //span[contains(@class,'CurrentConditions--tempValue')]
+2020-11-11 20:28:45.095 INFO  reporter.Reporter - Current Temprature of City on UI: Texas is 70°F
+2020-11-11 20:28:45.095 INFO  reporter.Reporter - Varience Value: 4
+2020-11-11 20:28:45.098 INFO  reporter.Reporter - Test Complete:- Step Passed 
+2020-11-11 20:37:32.456 INFO  reporter.Reporter - TestCase:- verifyTempratureSearchOnGUIPhase1() Started
+2020-11-11 20:37:32.465 INFO  reporter.Utils - Move Report to zip file
+2020-11-11 20:37:32.587 INFO  reporter.Reporter - Checking the temprature for city: Delhi
+2020-11-11 20:37:34.502 DEBUG com.mts.pages.BasePage - Entering Textbox at location: By.id: LocationSearch_input
+2020-11-11 20:37:34.670 DEBUG com.mts.pages.BasePage - Checking for element is present at location: By.xpath: //div[contains(text(),'No results found')]
+2020-11-11 20:37:39.842 DEBUG com.mts.pages.BasePage - Clicking on button at location: By.xpath: //button[@id='LocationSearch_listbox-0']
+2020-11-11 20:37:43.030 DEBUG com.mts.pages.BasePage - Getting Text value from: By.xpath: //span[contains(@class,'CurrentConditions--tempValue')]
+2020-11-11 20:37:43.118 INFO  reporter.Reporter - Current Temprature of City on UI: Delhi is 69°F
+2020-11-11 20:37:43.119 INFO  reporter.Reporter - Checking the temprature for city: Tokyo
+2020-11-11 20:37:44.699 DEBUG com.mts.pages.BasePage - Entering Textbox at location: By.id: LocationSearch_input
+2020-11-11 20:37:44.945 DEBUG com.mts.pages.BasePage - Checking for element is present at location: By.xpath: //div[contains(text(),'No results found')]
+2020-11-11 20:37:50.092 DEBUG com.mts.pages.BasePage - Clicking on button at location: By.xpath: //button[@id='LocationSearch_listbox-0']
+2020-11-11 20:37:52.513 DEBUG com.mts.pages.BasePage - Getting Text value from: By.xpath: //span[contains(@class,'CurrentConditions--tempValue')]
+2020-11-11 20:37:52.592 INFO  reporter.Reporter - Current Temprature of City on UI: Tokyo is 49°F
+2020-11-11 20:37:52.592 INFO  reporter.Reporter - Checking the temprature for city: Indore
+2020-11-11 20:37:52.700 DEBUG com.mts.pages.BasePage - Entering Textbox at location: By.id: LocationSearch_input
+2020-11-11 20:37:52.868 DEBUG com.mts.pages.BasePage - Checking for element is present at location: By.xpath: //div[contains(text(),'No results found')]
+2020-11-11 20:37:58.006 DEBUG com.mts.pages.BasePage - Clicking on button at location: By.xpath: //button[@id='LocationSearch_listbox-0']
+2020-11-11 20:38:00.838 DEBUG com.mts.pages.BasePage - Getting Text value from: By.xpath: //span[contains(@class,'CurrentConditions--tempValue')]
+2020-11-11 20:38:00.923 INFO  reporter.Reporter - Current Temprature of City on UI: Indore is 66°F
+2020-11-11 20:38:00.924 INFO  reporter.Reporter - Checking the temprature for city: Mumbai
+2020-11-11 20:38:02.348 DEBUG com.mts.pages.BasePage - Entering Textbox at location: By.id: LocationSearch_input
+2020-11-11 20:38:02.501 DEBUG com.mts.pages.BasePage - Checking for element is present at location: By.xpath: //div[contains(text(),'No results found')]
+2020-11-11 20:38:07.697 DEBUG com.mts.pages.BasePage - Clicking on button at location: By.xpath: //button[@id='LocationSearch_listbox-0']
+2020-11-11 20:38:10.709 DEBUG com.mts.pages.BasePage - Getting Text value from: By.xpath: //span[contains(@class,'CurrentConditions--tempValue')]
+2020-11-11 20:38:10.781 INFO  reporter.Reporter - Current Temprature of City on UI: Mumbai is 84°F
+2020-11-11 20:38:10.781 INFO  reporter.Reporter - Checking the temprature for city: Kolkata
+2020-11-11 20:38:12.223 DEBUG com.mts.pages.BasePage - Entering Textbox at location: By.id: LocationSearch_input
+2020-11-11 20:38:12.435 DEBUG com.mts.pages.BasePage - Checking for element is present at location: By.xpath: //div[contains(text(),'No results found')]
+2020-11-11 20:38:17.579 DEBUG com.mts.pages.BasePage - Clicking on button at location: By.xpath: //button[@id='LocationSearch_listbox-0']
+2020-11-11 20:38:19.208 DEBUG com.mts.pages.BasePage - Getting Text value from: By.xpath: //span[contains(@class,'CurrentConditions--tempValue')]
+2020-11-11 20:38:19.279 INFO  reporter.Reporter - Current Temprature of City on UI: Kolkata is 79°F
+2020-11-11 20:38:19.279 INFO  reporter.Reporter - Checking the temprature for city: New york
+2020-11-11 20:38:22.968 DEBUG com.mts.pages.BasePage - Entering Textbox at location: By.id: LocationSearch_input
+2020-11-11 20:38:23.199 DEBUG com.mts.pages.BasePage - Checking for element is present at location: By.xpath: //div[contains(text(),'No results found')]
+2020-11-11 20:38:28.332 DEBUG com.mts.pages.BasePage - Clicking on button at location: By.xpath: //button[@id='LocationSearch_listbox-0']
+2020-11-11 20:38:31.174 DEBUG com.mts.pages.BasePage - Getting Text value from: By.xpath: //span[contains(@class,'CurrentConditions--tempValue')]
+2020-11-11 20:38:31.364 INFO  reporter.Reporter - Current Temprature of City on UI: New york is 67°F
+2020-11-11 20:38:31.364 INFO  reporter.Reporter - Checking the temprature for city: Texas
+2020-11-11 20:38:31.468 DEBUG com.mts.pages.BasePage - Entering Textbox at location: By.id: LocationSearch_input
+2020-11-11 20:38:31.612 DEBUG com.mts.pages.BasePage - Checking for element is present at location: By.xpath: //div[contains(text(),'No results found')]
+2020-11-11 20:38:36.740 DEBUG com.mts.pages.BasePage - Clicking on button at location: By.xpath: //button[@id='LocationSearch_listbox-0']
+2020-11-11 20:38:39.256 DEBUG com.mts.pages.BasePage - Getting Text value from: By.xpath: //span[contains(@class,'CurrentConditions--tempValue')]
+2020-11-11 20:38:39.371 INFO  reporter.Reporter - Current Temprature of City on UI: Texas is 71°F
+2020-11-11 20:38:39.371 INFO  reporter.Reporter - Varience Value: 4
+2020-11-11 20:38:39.374 INFO  reporter.Reporter - Test Complete:- Step Passed 
+2020-11-11 20:39:31.054 INFO  reporter.Reporter - TestCase:- verifyTempratureSearchOnGUIPhase1() Started
+2020-11-11 20:39:31.063 INFO  reporter.Utils - Move Report to zip file
+2020-11-11 20:39:31.227 INFO  reporter.Reporter - Checking the temprature for city: Delhi
+2020-11-11 20:39:33.103 DEBUG com.mts.pages.BasePage - Entering Textbox at location: By.id: LocationSearch_input
+2020-11-11 20:39:33.280 DEBUG com.mts.pages.BasePage - Checking for element is present at location: By.xpath: //div[contains(text(),'No results found')]
+2020-11-11 20:39:38.464 DEBUG com.mts.pages.BasePage - Clicking on button at location: By.xpath: //button[@id='LocationSearch_listbox-0']
+2020-11-11 20:39:40.225 DEBUG com.mts.pages.BasePage - Getting Text value from: By.xpath: //span[contains(@class,'CurrentConditions--tempValue')]
+2020-11-11 20:39:40.377 INFO  reporter.Reporter - Current Temprature of City on UI: Delhi is 69°F
+2020-11-11 20:39:40.377 INFO  reporter.Reporter - Checking the temprature for city: Tokyo
+2020-11-11 20:39:41.596 DEBUG com.mts.pages.BasePage - Entering Textbox at location: By.id: LocationSearch_input
+2020-11-11 20:39:41.780 DEBUG com.mts.pages.BasePage - Checking for element is present at location: By.xpath: //div[contains(text(),'No results found')]
+2020-11-11 20:39:47.380 DEBUG com.mts.pages.BasePage - Clicking on button at location: By.xpath: //button[@id='LocationSearch_listbox-0']
+2020-11-11 20:39:48.273 DEBUG com.mts.pages.BasePage - Getting Text value from: By.xpath: //span[contains(@class,'CurrentConditions--tempValue')]
+2020-11-11 20:39:48.404 INFO  reporter.Reporter - Current Temprature of City on UI: Tokyo is 49°F
+2020-11-11 20:39:48.404 INFO  reporter.Reporter - Checking the temprature for city: Indore
+2020-11-11 20:39:49.268 DEBUG com.mts.pages.BasePage - Entering Textbox at location: By.id: LocationSearch_input
+2020-11-11 20:39:49.488 DEBUG com.mts.pages.BasePage - Checking for element is present at location: By.xpath: //div[contains(text(),'No results found')]
+2020-11-11 20:39:54.650 DEBUG com.mts.pages.BasePage - Clicking on button at location: By.xpath: //button[@id='LocationSearch_listbox-0']
+2020-11-11 20:39:55.360 DEBUG com.mts.pages.BasePage - Getting Text value from: By.xpath: //span[contains(@class,'CurrentConditions--tempValue')]
+2020-11-11 20:39:55.442 INFO  reporter.Reporter - Current Temprature of City on UI: Indore is 66°F
+2020-11-11 20:39:55.442 INFO  reporter.Reporter - Checking the temprature for city: Mumbai
+2020-11-11 20:39:58.370 DEBUG com.mts.pages.BasePage - Entering Textbox at location: By.id: LocationSearch_input
+2020-11-11 20:39:58.613 DEBUG com.mts.pages.BasePage - Checking for element is present at location: By.xpath: //div[contains(text(),'No results found')]
+2020-11-11 20:40:03.772 DEBUG com.mts.pages.BasePage - Clicking on button at location: By.xpath: //button[@id='LocationSearch_listbox-0']
+2020-11-11 20:40:05.601 DEBUG com.mts.pages.BasePage - Getting Text value from: By.xpath: //span[contains(@class,'CurrentConditions--tempValue')]
+2020-11-11 20:40:05.693 INFO  reporter.Reporter - Current Temprature of City on UI: Mumbai is 84°F
+2020-11-11 20:40:05.694 INFO  reporter.Reporter - Checking the temprature for city: Kolkata
+2020-11-11 20:40:07.129 DEBUG com.mts.pages.BasePage - Entering Textbox at location: By.id: LocationSearch_input
+2020-11-11 20:40:07.285 DEBUG com.mts.pages.BasePage - Checking for element is present at location: By.xpath: //div[contains(text(),'No results found')]
+2020-11-11 20:40:12.428 DEBUG com.mts.pages.BasePage - Clicking on button at location: By.xpath: //button[@id='LocationSearch_listbox-0']
+2020-11-11 20:40:13.849 DEBUG com.mts.pages.BasePage - Getting Text value from: By.xpath: //span[contains(@class,'CurrentConditions--tempValue')]
+2020-11-11 20:40:13.935 INFO  reporter.Reporter - Current Temprature of City on UI: Kolkata is 79°F
+2020-11-11 20:40:13.937 INFO  reporter.Reporter - Checking the temprature for city: Newyork
+2020-11-11 20:40:14.793 DEBUG com.mts.pages.BasePage - Entering Textbox at location: By.id: LocationSearch_input
+2020-11-11 20:40:15.199 DEBUG com.mts.pages.BasePage - Checking for element is present at location: By.xpath: //div[contains(text(),'No results found')]
+2020-11-11 20:40:18.290 INFO  reporter.Reporter - Current Temprature of City on UI: Newyork is null°F
+2020-11-11 20:40:18.290 INFO  reporter.Reporter - Checking the temprature for city: Texas
+2020-11-11 20:40:18.349 DEBUG com.mts.pages.BasePage - Entering Textbox at location: By.id: LocationSearch_input
+2020-11-11 20:40:18.461 DEBUG com.mts.pages.BasePage - Checking for element is present at location: By.xpath: //div[contains(text(),'No results found')]
+2020-11-11 20:40:21.537 INFO  reporter.Reporter - Current Temprature of City on UI: Texas is null°F
+2020-11-11 20:40:21.538 INFO  reporter.Reporter - Varience Value: 4
+2020-11-11 20:40:21.541 INFO  reporter.Reporter - Test Complete:- Step Passed 
+2020-11-11 20:44:21.236 INFO  reporter.Reporter - TestCase:- verifyTempratureSearchOnGUIPhase1() Started
+2020-11-11 20:44:21.244 INFO  reporter.Utils - Move Report to zip file
+2020-11-11 20:44:21.417 INFO  reporter.Reporter - Checking the temprature for city: Delhi
+2020-11-11 20:44:23.306 DEBUG com.mts.pages.BasePage - Entering Textbox at location: By.id: LocationSearch_input
+2020-11-11 20:44:23.465 DEBUG com.mts.pages.BasePage - Checking for element is present at location: By.xpath: //div[contains(text(),'No results found')]
+2020-11-11 20:44:28.658 DEBUG com.mts.pages.BasePage - Clicking on button at location: By.xpath: //button[@id='LocationSearch_listbox-0']
+2020-11-11 20:44:31.974 DEBUG com.mts.pages.BasePage - Getting Text value from: By.xpath: //span[contains(@class,'CurrentConditions--tempValue')]
+2020-11-11 20:44:32.063 INFO  reporter.Reporter - Current Temprature of City on UI: Delhi is 69°F
+2020-11-11 20:44:32.063 INFO  reporter.Reporter - Checking the temprature for city: Tokyo
+2020-11-11 20:44:33.942 DEBUG com.mts.pages.BasePage - Entering Textbox at location: By.id: LocationSearch_input
+2020-11-11 20:44:34.198 DEBUG com.mts.pages.BasePage - Checking for element is present at location: By.xpath: //div[contains(text(),'No results found')]
+2020-11-11 20:44:39.382 DEBUG com.mts.pages.BasePage - Clicking on button at location: By.xpath: //button[@id='LocationSearch_listbox-0']
+2020-11-11 20:44:41.865 DEBUG com.mts.pages.BasePage - Getting Text value from: By.xpath: //span[contains(@class,'CurrentConditions--tempValue')]
+2020-11-11 20:44:41.953 INFO  reporter.Reporter - Current Temprature of City on UI: Tokyo is 49°F
+2020-11-11 20:44:41.953 INFO  reporter.Reporter - Checking the temprature for city: Indore
+2020-11-11 20:44:42.034 DEBUG com.mts.pages.BasePage - Entering Textbox at location: By.id: LocationSearch_input
+2020-11-11 20:44:42.239 DEBUG com.mts.pages.BasePage - Checking for element is present at location: By.xpath: //div[contains(text(),'No results found')]
+2020-11-11 20:44:47.411 DEBUG com.mts.pages.BasePage - Clicking on button at location: By.xpath: //button[@id='LocationSearch_listbox-0']
+2020-11-11 20:44:50.601 DEBUG com.mts.pages.BasePage - Getting Text value from: By.xpath: //span[contains(@class,'CurrentConditions--tempValue')]
+2020-11-11 20:44:50.689 INFO  reporter.Reporter - Current Temprature of City on UI: Indore is 68°F
+2020-11-11 20:44:50.689 INFO  reporter.Reporter - Checking the temprature for city: Mumbai
+2020-11-11 20:44:50.755 DEBUG com.mts.pages.BasePage - Entering Textbox at location: By.id: LocationSearch_input
+2020-11-11 20:44:50.905 DEBUG com.mts.pages.BasePage - Checking for element is present at location: By.xpath: //div[contains(text(),'No results found')]
+2020-11-11 20:44:56.098 DEBUG com.mts.pages.BasePage - Clicking on button at location: By.xpath: //button[@id='LocationSearch_listbox-0']
+2020-11-11 20:44:57.694 DEBUG com.mts.pages.BasePage - Getting Text value from: By.xpath: //span[contains(@class,'CurrentConditions--tempValue')]
+2020-11-11 20:44:57.767 INFO  reporter.Reporter - Current Temprature of City on UI: Mumbai is 83°F
+2020-11-11 20:44:57.767 INFO  reporter.Reporter - Checking the temprature for city: Kolkata
+2020-11-11 20:44:58.517 DEBUG com.mts.pages.BasePage - Entering Textbox at location: By.id: LocationSearch_input
+2020-11-11 20:44:58.724 DEBUG com.mts.pages.BasePage - Checking for element is present at location: By.xpath: //div[contains(text(),'No results found')]
+2020-11-11 20:45:03.879 DEBUG com.mts.pages.BasePage - Clicking on button at location: By.xpath: //button[@id='LocationSearch_listbox-0']
+2020-11-11 20:45:07.160 DEBUG com.mts.pages.BasePage - Getting Text value from: By.xpath: //span[contains(@class,'CurrentConditions--tempValue')]
+2020-11-11 20:45:07.222 INFO  reporter.Reporter - Current Temprature of City on UI: Kolkata is 78°F
+2020-11-11 20:45:07.222 INFO  reporter.Reporter - Checking the temprature for city: Newyork
+2020-11-11 20:45:09.063 DEBUG com.mts.pages.BasePage - Entering Textbox at location: By.id: LocationSearch_input
+2020-11-11 20:45:09.245 DEBUG com.mts.pages.BasePage - Checking for element is present at location: By.xpath: //div[contains(text(),'No results found')]
+2020-11-11 20:45:12.369 INFO  reporter.Reporter - Current Temprature of City on UI: Newyork is null°F
+2020-11-11 20:45:12.369 INFO  reporter.Reporter - Checking the temprature for city: Texas
+2020-11-11 20:45:12.494 DEBUG com.mts.pages.BasePage - Entering Textbox at location: By.id: LocationSearch_input
+2020-11-11 20:45:12.610 DEBUG com.mts.pages.BasePage - Checking for element is present at location: By.xpath: //div[contains(text(),'No results found')]
+2020-11-11 20:45:15.696 INFO  reporter.Reporter - Current Temprature of City on UI: Texas is null°F
+2020-11-11 20:45:15.696 INFO  reporter.Reporter - Varience Value: 4
+2020-11-11 20:49:40.081 INFO  reporter.Reporter - TestCase:- verifyTempratureSearchOnGUIPhase1() Started
+2020-11-11 20:49:40.090 INFO  reporter.Utils - Move Report to zip file
+2020-11-11 20:49:40.233 INFO  reporter.Reporter - Checking the temprature for city: Delhi
+2020-11-11 20:49:42.694 DEBUG com.mts.pages.BasePage - Entering Textbox at location: By.id: LocationSearch_input
+2020-11-11 20:49:42.981 DEBUG com.mts.pages.BasePage - Checking for element is present at location: By.xpath: //div[contains(text(),'No results found')]
+2020-11-11 20:49:48.130 DEBUG com.mts.pages.BasePage - Clicking on button at location: By.xpath: //button[@id='LocationSearch_listbox-0']
+2020-11-11 20:49:50.111 DEBUG com.mts.pages.BasePage - Getting Text value from: By.xpath: //span[contains(@class,'CurrentConditions--tempValue')]
+2020-11-11 20:49:50.197 INFO  reporter.Reporter - Current Temprature of City on UI: Delhi is 69°F
+2020-11-11 20:49:50.197 INFO  reporter.Reporter - Checking the temprature for city: Tokyo
+2020-11-11 20:49:51.558 DEBUG com.mts.pages.BasePage - Entering Textbox at location: By.id: LocationSearch_input
+2020-11-11 20:49:51.798 DEBUG com.mts.pages.BasePage - Checking for element is present at location: By.xpath: //div[contains(text(),'No results found')]
+2020-11-11 20:49:57.050 DEBUG com.mts.pages.BasePage - Clicking on button at location: By.xpath: //button[@id='LocationSearch_listbox-0']
+2020-11-11 20:49:59.313 DEBUG com.mts.pages.BasePage - Getting Text value from: By.xpath: //span[contains(@class,'CurrentConditions--tempValue')]
+2020-11-11 20:49:59.390 INFO  reporter.Reporter - Current Temprature of City on UI: Tokyo is 49°F
+2020-11-11 20:49:59.390 INFO  reporter.Reporter - Checking the temprature for city: Indore
+2020-11-11 20:50:00.123 DEBUG com.mts.pages.BasePage - Entering Textbox at location: By.id: LocationSearch_input
+2020-11-11 20:50:00.405 DEBUG com.mts.pages.BasePage - Checking for element is present at location: By.xpath: //div[contains(text(),'No results found')]
+2020-11-11 20:50:06.056 DEBUG com.mts.pages.BasePage - Clicking on button at location: By.xpath: //button[@id='LocationSearch_listbox-0']
+2020-11-11 20:50:08.079 DEBUG com.mts.pages.BasePage - Getting Text value from: By.xpath: //span[contains(@class,'CurrentConditions--tempValue')]
+2020-11-11 20:50:08.155 INFO  reporter.Reporter - Current Temprature of City on UI: Indore is 68°F
+2020-11-11 20:50:08.156 INFO  reporter.Reporter - Checking the temprature for city: Mumbai
+2020-11-11 20:50:09.325 DEBUG com.mts.pages.BasePage - Entering Textbox at location: By.id: LocationSearch_input
+2020-11-11 20:50:09.519 DEBUG com.mts.pages.BasePage - Checking for element is present at location: By.xpath: //div[contains(text(),'No results found')]
+2020-11-11 20:50:14.632 DEBUG com.mts.pages.BasePage - Clicking on button at location: By.xpath: //button[@id='LocationSearch_listbox-0']
+2020-11-11 20:50:16.366 DEBUG com.mts.pages.BasePage - Getting Text value from: By.xpath: //span[contains(@class,'CurrentConditions--tempValue')]
+2020-11-11 20:50:16.455 INFO  reporter.Reporter - Current Temprature of City on UI: Mumbai is 82°F
+2020-11-11 20:50:16.455 INFO  reporter.Reporter - Checking the temprature for city: Kolkata
+2020-11-11 20:50:17.128 DEBUG com.mts.pages.BasePage - Entering Textbox at location: By.id: LocationSearch_input
+2020-11-11 20:50:17.374 DEBUG com.mts.pages.BasePage - Checking for element is present at location: By.xpath: //div[contains(text(),'No results found')]
+2020-11-11 20:50:22.564 DEBUG com.mts.pages.BasePage - Clicking on button at location: By.xpath: //button[@id='LocationSearch_listbox-0']
+2020-11-11 20:50:24.266 DEBUG com.mts.pages.BasePage - Getting Text value from: By.xpath: //span[contains(@class,'CurrentConditions--tempValue')]
+2020-11-11 20:50:24.350 INFO  reporter.Reporter - Current Temprature of City on UI: Kolkata is 78°F
+2020-11-11 20:50:24.350 INFO  reporter.Reporter - Checking the temprature for city: Newyork
+2020-11-11 20:50:25.186 DEBUG com.mts.pages.BasePage - Entering Textbox at location: By.id: LocationSearch_input
+2020-11-11 20:50:25.402 DEBUG com.mts.pages.BasePage - Checking for element is present at location: By.xpath: //div[contains(text(),'No results found')]
+2020-11-11 20:50:28.494 INFO  reporter.Reporter - Current Temprature of City on UI: Newyork is null°F
+2020-11-11 20:50:28.495 INFO  reporter.Reporter - Checking the temprature for city: Texas
+2020-11-11 20:50:28.554 DEBUG com.mts.pages.BasePage - Entering Textbox at location: By.id: LocationSearch_input
+2020-11-11 20:50:28.733 DEBUG com.mts.pages.BasePage - Checking for element is present at location: By.xpath: //div[contains(text(),'No results found')]
+2020-11-11 20:50:33.876 DEBUG com.mts.pages.BasePage - Clicking on button at location: By.xpath: //button[@id='LocationSearch_listbox-0']
+2020-11-11 20:50:36.081 DEBUG com.mts.pages.BasePage - Getting Text value from: By.xpath: //span[contains(@class,'CurrentConditions--tempValue')]
+2020-11-11 20:50:36.207 INFO  reporter.Reporter - Current Temprature of City on UI: Texas is 71°F
+2020-11-11 20:50:36.207 INFO  reporter.Reporter - Varience Value: 4
+2020-11-11 21:02:27.656 INFO  reporter.Reporter - TestCase:- verifyTempratureSearchOnGUIPhase1() Started
+2020-11-11 21:02:27.669 INFO  reporter.Utils - Move Report to zip file
+2020-11-11 21:02:27.835 INFO  reporter.Reporter - Checking the temprature for city: Delhi
+2020-11-11 21:02:30.254 DEBUG com.mts.pages.BasePage - Entering Textbox at location: By.id: LocationSearch_input
+2020-11-11 21:02:30.469 DEBUG com.mts.pages.BasePage - Checking for element is present at location: By.xpath: //div[contains(text(),'No results found')]
+2020-11-11 21:02:35.641 DEBUG com.mts.pages.BasePage - Clicking on button at location: By.xpath: //button[@id='LocationSearch_listbox-0']
+2020-11-11 21:02:38.371 DEBUG com.mts.pages.BasePage - Getting Text value from: By.xpath: //span[contains(@class,'CurrentConditions--tempValue')]
+2020-11-11 21:02:38.468 INFO  reporter.Reporter - Current Temprature of City on UI: Delhi is 69&#8451F
+2020-11-11 21:02:38.468 INFO  reporter.Reporter - Checking the temprature for city: Tokyo
+2020-11-11 21:02:41.064 DEBUG com.mts.pages.BasePage - Entering Textbox at location: By.id: LocationSearch_input
+2020-11-11 21:02:41.253 DEBUG com.mts.pages.BasePage - Checking for element is present at location: By.xpath: //div[contains(text(),'No results found')]
+2020-11-11 21:02:46.442 DEBUG com.mts.pages.BasePage - Clicking on button at location: By.xpath: //button[@id='LocationSearch_listbox-0']
+2020-11-11 21:02:48.545 DEBUG com.mts.pages.BasePage - Getting Text value from: By.xpath: //span[contains(@class,'CurrentConditions--tempValue')]
+2020-11-11 21:02:48.902 INFO  reporter.Reporter - Current Temprature of City on UI: Tokyo is 48&#8451F
+2020-11-11 21:02:48.902 INFO  reporter.Reporter - Checking the temprature for city: Indore
+2020-11-11 21:02:49.017 DEBUG com.mts.pages.BasePage - Entering Textbox at location: By.id: LocationSearch_input
+2020-11-11 21:02:49.216 DEBUG com.mts.pages.BasePage - Checking for element is present at location: By.xpath: //div[contains(text(),'No results found')]
+2020-11-11 21:02:54.387 DEBUG com.mts.pages.BasePage - Clicking on button at location: By.xpath: //button[@id='LocationSearch_listbox-0']
+2020-11-11 21:02:55.779 DEBUG com.mts.pages.BasePage - Getting Text value from: By.xpath: //span[contains(@class,'CurrentConditions--tempValue')]
+2020-11-11 21:02:55.854 INFO  reporter.Reporter - Current Temprature of City on UI: Indore is 67&#8451F
+2020-11-11 21:02:55.854 INFO  reporter.Reporter - Checking the temprature for city: Mumbai
+2020-11-11 21:02:56.544 DEBUG com.mts.pages.BasePage - Entering Textbox at location: By.id: LocationSearch_input
+2020-11-11 21:02:56.803 DEBUG com.mts.pages.BasePage - Checking for element is present at location: By.xpath: //div[contains(text(),'No results found')]
+2020-11-11 21:03:01.966 DEBUG com.mts.pages.BasePage - Clicking on button at location: By.xpath: //button[@id='LocationSearch_listbox-0']
+2020-11-11 21:03:03.630 DEBUG com.mts.pages.BasePage - Getting Text value from: By.xpath: //span[contains(@class,'CurrentConditions--tempValue')]
+2020-11-11 21:03:03.741 INFO  reporter.Reporter - Current Temprature of City on UI: Mumbai is 82&#8451F
+2020-11-11 21:03:03.741 INFO  reporter.Reporter - Checking the temprature for city: Kolkata
+2020-11-11 21:03:04.389 DEBUG com.mts.pages.BasePage - Entering Textbox at location: By.id: LocationSearch_input
+2020-11-11 21:03:04.594 DEBUG com.mts.pages.BasePage - Checking for element is present at location: By.xpath: //div[contains(text(),'No results found')]
+2020-11-11 21:03:09.764 DEBUG com.mts.pages.BasePage - Clicking on button at location: By.xpath: //button[@id='LocationSearch_listbox-0']
+2020-11-11 21:03:12.681 DEBUG com.mts.pages.BasePage - Getting Text value from: By.xpath: //span[contains(@class,'CurrentConditions--tempValue')]
+2020-11-11 21:03:12.765 INFO  reporter.Reporter - Current Temprature of City on UI: Kolkata is 78&#8451F
+2020-11-11 21:03:12.765 INFO  reporter.Reporter - Checking the temprature for city: Newyork
+2020-11-11 21:03:13.643 DEBUG com.mts.pages.BasePage - Entering Textbox at location: By.id: LocationSearch_input
+2020-11-11 21:03:13.902 DEBUG com.mts.pages.BasePage - Checking for element is present at location: By.xpath: //div[contains(text(),'No results found')]
+2020-11-11 21:03:17.026 INFO  reporter.Reporter - Current Temprature of City on UI: Newyork is null&#8451F
+2020-11-11 21:03:17.027 INFO  reporter.Reporter - Checking the temprature for city: Texas
+2020-11-11 21:03:17.090 DEBUG com.mts.pages.BasePage - Entering Textbox at location: By.id: LocationSearch_input
+2020-11-11 21:03:17.275 DEBUG com.mts.pages.BasePage - Checking for element is present at location: By.xpath: //div[contains(text(),'No results found')]
+2020-11-11 21:03:22.441 DEBUG com.mts.pages.BasePage - Clicking on button at location: By.xpath: //button[@id='LocationSearch_listbox-0']
+2020-11-11 21:03:23.960 DEBUG com.mts.pages.BasePage - Getting Text value from: By.xpath: //span[contains(@class,'CurrentConditions--tempValue')]
+2020-11-11 21:03:24.095 INFO  reporter.Reporter - Current Temprature of City on UI: Texas is 72&#8451F
+2020-11-11 21:03:24.095 INFO  reporter.Reporter - Varience Value: 4
+2020-11-11 21:05:12.517 INFO  reporter.Reporter - TestCase:- verifyTempratureSearchOnGUIPhase1() Started
+2020-11-11 21:05:12.525 INFO  reporter.Utils - Move Report to zip file
+2020-11-11 21:05:12.682 INFO  reporter.Reporter - Checking the temprature for city: Delhi
+2020-11-11 21:05:14.527 DEBUG com.mts.pages.BasePage - Entering Textbox at location: By.id: LocationSearch_input
+2020-11-11 21:05:14.761 DEBUG com.mts.pages.BasePage - Checking for element is present at location: By.xpath: //div[contains(text(),'No results found')]
+2020-11-11 21:05:19.963 DEBUG com.mts.pages.BasePage - Clicking on button at location: By.xpath: //button[@id='LocationSearch_listbox-0']
+2020-11-11 21:05:21.454 DEBUG com.mts.pages.BasePage - Getting Text value from: By.xpath: //span[contains(@class,'CurrentConditions--tempValue')]
+2020-11-11 21:05:21.600 INFO  reporter.Reporter - Current Temprature of City on UI: Delhi is 69&#176F
+2020-11-11 21:05:21.600 INFO  reporter.Reporter - Checking the temprature for city: Tokyo
+2020-11-11 21:05:23.384 DEBUG com.mts.pages.BasePage - Entering Textbox at location: By.id: LocationSearch_input
+2020-11-11 21:05:23.684 DEBUG com.mts.pages.BasePage - Checking for element is present at location: By.xpath: //div[contains(text(),'No results found')]
+2020-11-11 21:05:28.879 DEBUG com.mts.pages.BasePage - Clicking on button at location: By.xpath: //button[@id='LocationSearch_listbox-0']
+2020-11-11 21:05:30.427 DEBUG com.mts.pages.BasePage - Getting Text value from: By.xpath: //span[contains(@class,'CurrentConditions--tempValue')]
+2020-11-11 21:05:30.532 INFO  reporter.Reporter - Current Temprature of City on UI: Tokyo is 48&#176F
+2020-11-11 21:05:30.532 INFO  reporter.Reporter - Checking the temprature for city: Indore
+2020-11-11 21:05:31.359 DEBUG com.mts.pages.BasePage - Entering Textbox at location: By.id: LocationSearch_input
+2020-11-11 21:05:31.693 DEBUG com.mts.pages.BasePage - Checking for element is present at location: By.xpath: //div[contains(text(),'No results found')]
+2020-11-11 21:05:36.846 DEBUG com.mts.pages.BasePage - Clicking on button at location: By.xpath: //button[@id='LocationSearch_listbox-0']
+2020-11-11 21:05:38.155 DEBUG com.mts.pages.BasePage - Getting Text value from: By.xpath: //span[contains(@class,'CurrentConditions--tempValue')]
+2020-11-11 21:05:38.239 INFO  reporter.Reporter - Current Temprature of City on UI: Indore is 67&#176F
+2020-11-11 21:05:38.239 INFO  reporter.Reporter - Checking the temprature for city: Mumbai
+2020-11-11 21:05:39.656 DEBUG com.mts.pages.BasePage - Entering Textbox at location: By.id: LocationSearch_input
+2020-11-11 21:05:39.980 DEBUG com.mts.pages.BasePage - Checking for element is present at location: By.xpath: //div[contains(text(),'No results found')]
+2020-11-11 21:05:45.164 DEBUG com.mts.pages.BasePage - Clicking on button at location: By.xpath: //button[@id='LocationSearch_listbox-0']
+2020-11-11 21:05:46.255 DEBUG com.mts.pages.BasePage - Getting Text value from: By.xpath: //span[contains(@class,'CurrentConditions--tempValue')]
+2020-11-11 21:05:46.333 INFO  reporter.Reporter - Current Temprature of City on UI: Mumbai is 82&#176F
+2020-11-11 21:05:46.333 INFO  reporter.Reporter - Checking the temprature for city: Kolkata
+2020-11-11 21:05:47.691 DEBUG com.mts.pages.BasePage - Entering Textbox at location: By.id: LocationSearch_input
+2020-11-11 21:05:47.924 DEBUG com.mts.pages.BasePage - Checking for element is present at location: By.xpath: //div[contains(text(),'No results found')]
+2020-11-11 21:05:53.107 DEBUG com.mts.pages.BasePage - Clicking on button at location: By.xpath: //button[@id='LocationSearch_listbox-0']
+2020-11-11 21:05:54.832 DEBUG com.mts.pages.BasePage - Getting Text value from: By.xpath: //span[contains(@class,'CurrentConditions--tempValue')]
+2020-11-11 21:05:54.915 INFO  reporter.Reporter - Current Temprature of City on UI: Kolkata is 78&#176F
+2020-11-11 21:05:54.915 INFO  reporter.Reporter - Checking the temprature for city: Newyork
+2020-11-11 21:05:55.801 DEBUG com.mts.pages.BasePage - Entering Textbox at location: By.id: LocationSearch_input
+2020-11-11 21:05:56.060 DEBUG com.mts.pages.BasePage - Checking for element is present at location: By.xpath: //div[contains(text(),'No results found')]
+2020-11-11 21:05:59.151 INFO  reporter.Reporter - Current Temprature of City on UI: Newyork is null&#176F
+2020-11-11 21:05:59.154 INFO  reporter.Reporter - Checking the temprature for city: Texas
+2020-11-11 21:05:59.226 DEBUG com.mts.pages.BasePage - Entering Textbox at location: By.id: LocationSearch_input
+2020-11-11 21:05:59.377 DEBUG com.mts.pages.BasePage - Checking for element is present at location: By.xpath: //div[contains(text(),'No results found')]
+2020-11-11 21:06:04.524 DEBUG com.mts.pages.BasePage - Clicking on button at location: By.xpath: //button[@id='LocationSearch_listbox-0']
+2020-11-11 21:06:05.676 DEBUG com.mts.pages.BasePage - Getting Text value from: By.xpath: //span[contains(@class,'CurrentConditions--tempValue')]
+2020-11-11 21:06:05.750 INFO  reporter.Reporter - Current Temprature of City on UI: Texas is 72&#176F
+2020-11-11 21:06:05.750 INFO  reporter.Reporter - Varience Value: 4
+2020-11-11 21:07:19.447 INFO  reporter.Reporter - TestCase:- verifyTempratureSearchOnGUIPhase1() Started
+2020-11-11 21:07:19.453 INFO  reporter.Utils - Move Report to zip file
+2020-11-11 21:07:19.627 INFO  reporter.Reporter - Checking the temprature for city: Delhi
+2020-11-11 21:07:22.189 DEBUG com.mts.pages.BasePage - Entering Textbox at location: By.id: LocationSearch_input
+2020-11-11 21:07:22.374 DEBUG com.mts.pages.BasePage - Checking for element is present at location: By.xpath: //div[contains(text(),'No results found')]
+2020-11-11 21:07:27.506 DEBUG com.mts.pages.BasePage - Clicking on button at location: By.xpath: //button[@id='LocationSearch_listbox-0']
+2020-11-11 21:07:29.715 DEBUG com.mts.pages.BasePage - Getting Text value from: By.xpath: //span[contains(@class,'CurrentConditions--tempValue')]
+2020-11-11 21:07:29.801 INFO  reporter.Reporter - Current Temprature of City on UI: Delhi is 21&#176C
+2020-11-11 21:07:29.801 INFO  reporter.Reporter - Checking the temprature for city: Tokyo
+2020-11-11 21:07:31.865 DEBUG com.mts.pages.BasePage - Entering Textbox at location: By.id: LocationSearch_input
+2020-11-11 21:07:32.028 DEBUG com.mts.pages.BasePage - Checking for element is present at location: By.xpath: //div[contains(text(),'No results found')]
+2020-11-11 21:07:37.230 DEBUG com.mts.pages.BasePage - Clicking on button at location: By.xpath: //button[@id='LocationSearch_listbox-0']
+2020-11-11 21:07:39.033 DEBUG com.mts.pages.BasePage - Getting Text value from: By.xpath: //span[contains(@class,'CurrentConditions--tempValue')]
+2020-11-11 21:07:39.108 INFO  reporter.Reporter - Current Temprature of City on UI: Tokyo is 9&#176C
+2020-11-11 21:07:39.108 INFO  reporter.Reporter - Checking the temprature for city: Indore
+2020-11-11 21:07:39.803 DEBUG com.mts.pages.BasePage - Entering Textbox at location: By.id: LocationSearch_input
+2020-11-11 21:07:40.099 DEBUG com.mts.pages.BasePage - Checking for element is present at location: By.xpath: //div[contains(text(),'No results found')]
+2020-11-11 21:07:45.272 DEBUG com.mts.pages.BasePage - Clicking on button at location: By.xpath: //button[@id='LocationSearch_listbox-0']
+2020-11-11 21:07:47.118 DEBUG com.mts.pages.BasePage - Getting Text value from: By.xpath: //span[contains(@class,'CurrentConditions--tempValue')]
+2020-11-11 21:07:47.209 INFO  reporter.Reporter - Current Temprature of City on UI: Indore is 19&#176C
+2020-11-11 21:07:47.209 INFO  reporter.Reporter - Checking the temprature for city: Mumbai
+2020-11-11 21:07:48.122 DEBUG com.mts.pages.BasePage - Entering Textbox at location: By.id: LocationSearch_input
+2020-11-11 21:07:48.301 DEBUG com.mts.pages.BasePage - Checking for element is present at location: By.xpath: //div[contains(text(),'No results found')]
+2020-11-11 21:07:53.501 DEBUG com.mts.pages.BasePage - Clicking on button at location: By.xpath: //button[@id='LocationSearch_listbox-0']
+2020-11-11 21:07:55.158 DEBUG com.mts.pages.BasePage - Getting Text value from: By.xpath: //span[contains(@class,'CurrentConditions--tempValue')]
+2020-11-11 21:07:55.242 INFO  reporter.Reporter - Current Temprature of City on UI: Mumbai is 28&#176C
+2020-11-11 21:07:55.242 INFO  reporter.Reporter - Checking the temprature for city: Kolkata
+2020-11-11 21:07:55.902 DEBUG com.mts.pages.BasePage - Entering Textbox at location: By.id: LocationSearch_input
+2020-11-11 21:07:56.130 DEBUG com.mts.pages.BasePage - Checking for element is present at location: By.xpath: //div[contains(text(),'No results found')]
+2020-11-11 21:08:01.285 DEBUG com.mts.pages.BasePage - Clicking on button at location: By.xpath: //button[@id='LocationSearch_listbox-0']
+2020-11-11 21:08:03.074 DEBUG com.mts.pages.BasePage - Getting Text value from: By.xpath: //span[contains(@class,'CurrentConditions--tempValue')]
+2020-11-11 21:08:03.148 INFO  reporter.Reporter - Current Temprature of City on UI: Kolkata is 25&#176C
+2020-11-11 21:08:03.148 INFO  reporter.Reporter - Checking the temprature for city: Newyork
+2020-11-11 21:08:03.860 DEBUG com.mts.pages.BasePage - Entering Textbox at location: By.id: LocationSearch_input
+2020-11-11 21:08:04.159 DEBUG com.mts.pages.BasePage - Checking for element is present at location: By.xpath: //div[contains(text(),'No results found')]
+2020-11-11 21:08:07.252 INFO  reporter.Reporter - Current Temprature of City on UI: Newyork is null&#176C
+2020-11-11 21:08:07.252 INFO  reporter.Reporter - Checking the temprature for city: Texas
+2020-11-11 21:08:07.318 DEBUG com.mts.pages.BasePage - Entering Textbox at location: By.id: LocationSearch_input
+2020-11-11 21:08:07.492 DEBUG com.mts.pages.BasePage - Checking for element is present at location: By.xpath: //div[contains(text(),'No results found')]
+2020-11-11 21:08:12.607 DEBUG com.mts.pages.BasePage - Clicking on button at location: By.xpath: //button[@id='LocationSearch_listbox-0']
+2020-11-11 21:08:14.735 DEBUG com.mts.pages.BasePage - Getting Text value from: By.xpath: //span[contains(@class,'CurrentConditions--tempValue')]
+2020-11-11 21:08:14.811 INFO  reporter.Reporter - Current Temprature of City on UI: Texas is 22&#176C
+2020-11-11 21:08:14.811 INFO  reporter.Reporter - Varience Value: 4
+2020-11-11 21:18:42.941 INFO  reporter.Reporter - TestCase:- verifyTempratureSearchOnGUIPhase1() Started
+2020-11-11 21:18:42.950 INFO  reporter.Utils - Move Report to zip file
+2020-11-11 21:18:43.081 INFO  reporter.Reporter - Checking the temprature for city: Delhi
+2020-11-11 21:18:44.876 DEBUG com.mts.pages.BasePage - Entering Textbox at location: By.id: LocationSearch_input
+2020-11-11 21:18:45.099 DEBUG com.mts.pages.BasePage - Checking for element is present at location: By.xpath: //div[contains(text(),'No results found')]
+2020-11-11 21:18:50.304 DEBUG com.mts.pages.BasePage - Clicking on button at location: By.xpath: //button[@id='LocationSearch_listbox-0']
+2020-11-11 21:18:53.160 DEBUG com.mts.pages.BasePage - Getting Text value from: By.xpath: //span[contains(@class,'CurrentConditions--tempValue')]
+2020-11-11 21:18:53.223 INFO  reporter.Reporter - Current Temprature of City on UI: Delhi is 20&#176C
+2020-11-11 21:18:53.224 INFO  reporter.Reporter - Checking the temprature for city: Tokyo
+2020-11-11 21:18:54.520 DEBUG com.mts.pages.BasePage - Entering Textbox at location: By.id: LocationSearch_input
+2020-11-11 21:18:54.749 DEBUG com.mts.pages.BasePage - Checking for element is present at location: By.xpath: //div[contains(text(),'No results found')]
+2020-11-11 21:19:00.671 DEBUG com.mts.pages.BasePage - Clicking on button at location: By.xpath: //button[@id='LocationSearch_listbox-0']
+2020-11-11 21:19:03.168 DEBUG com.mts.pages.BasePage - Getting Text value from: By.xpath: //span[contains(@class,'CurrentConditions--tempValue')]
+2020-11-11 21:19:03.242 INFO  reporter.Reporter - Current Temprature of City on UI: Tokyo is 8&#176C
+2020-11-11 21:19:03.243 INFO  reporter.Reporter - Checking the temprature for city: Indore
+2020-11-11 21:19:04.871 DEBUG com.mts.pages.BasePage - Entering Textbox at location: By.id: LocationSearch_input
+2020-11-11 21:19:05.200 DEBUG com.mts.pages.BasePage - Checking for element is present at location: By.xpath: //div[contains(text(),'No results found')]
+2020-11-11 21:19:10.385 DEBUG com.mts.pages.BasePage - Clicking on button at location: By.xpath: //button[@id='LocationSearch_listbox-0']
+2020-11-11 21:19:12.801 DEBUG com.mts.pages.BasePage - Getting Text value from: By.xpath: //span[contains(@class,'CurrentConditions--tempValue')]
+2020-11-11 21:19:12.919 INFO  reporter.Reporter - Current Temprature of City on UI: Indore is 19&#176C
+2020-11-11 21:19:12.920 INFO  reporter.Reporter - Checking the temprature for city: Mumbai
+2020-11-11 21:19:13.625 DEBUG com.mts.pages.BasePage - Entering Textbox at location: By.id: LocationSearch_input
+2020-11-11 21:19:13.814 DEBUG com.mts.pages.BasePage - Checking for element is present at location: By.xpath: //div[contains(text(),'No results found')]
+2020-11-11 21:19:18.946 DEBUG com.mts.pages.BasePage - Clicking on button at location: By.xpath: //button[@id='LocationSearch_listbox-0']
+2020-11-11 21:19:21.102 DEBUG com.mts.pages.BasePage - Getting Text value from: By.xpath: //span[contains(@class,'CurrentConditions--tempValue')]
+2020-11-11 21:19:21.247 INFO  reporter.Reporter - Current Temprature of City on UI: Mumbai is 28&#176C
+2020-11-11 21:19:21.247 INFO  reporter.Reporter - Checking the temprature for city: Kolkata
+2020-11-11 21:19:22.174 DEBUG com.mts.pages.BasePage - Entering Textbox at location: By.id: LocationSearch_input
+2020-11-11 21:19:22.666 DEBUG com.mts.pages.BasePage - Checking for element is present at location: By.xpath: //div[contains(text(),'No results found')]
+2020-11-11 21:19:27.792 DEBUG com.mts.pages.BasePage - Clicking on button at location: By.xpath: //button[@id='LocationSearch_listbox-0']
+2020-11-11 21:19:31.455 DEBUG com.mts.pages.BasePage - Getting Text value from: By.xpath: //span[contains(@class,'CurrentConditions--tempValue')]
+2020-11-11 21:19:31.529 INFO  reporter.Reporter - Current Temprature of City on UI: Kolkata is 25&#176C
+2020-11-11 21:19:31.530 INFO  reporter.Reporter - Checking the temprature for city: Berlin
+2020-11-11 21:19:32.374 DEBUG com.mts.pages.BasePage - Entering Textbox at location: By.id: LocationSearch_input
+2020-11-11 21:19:32.576 DEBUG com.mts.pages.BasePage - Checking for element is present at location: By.xpath: //div[contains(text(),'No results found')]
+2020-11-11 21:19:37.723 DEBUG com.mts.pages.BasePage - Clicking on button at location: By.xpath: //button[@id='LocationSearch_listbox-0']
+2020-11-11 21:19:39.789 DEBUG com.mts.pages.BasePage - Getting Text value from: By.xpath: //span[contains(@class,'CurrentConditions--tempValue')]
+2020-11-11 21:19:39.873 INFO  reporter.Reporter - Current Temprature of City on UI: Berlin is 7&#176C
+2020-11-11 21:19:39.873 INFO  reporter.Reporter - Checking the temprature for city: Texas
+2020-11-11 21:19:40.835 DEBUG com.mts.pages.BasePage - Entering Textbox at location: By.id: LocationSearch_input
+2020-11-11 21:19:41.133 DEBUG com.mts.pages.BasePage - Checking for element is present at location: By.xpath: //div[contains(text(),'No results found')]
+2020-11-11 21:19:46.372 DEBUG com.mts.pages.BasePage - Clicking on button at location: By.xpath: //button[@id='LocationSearch_listbox-0']
+2020-11-11 21:19:49.186 DEBUG com.mts.pages.BasePage - Getting Text value from: By.xpath: //span[contains(@class,'CurrentConditions--tempValue')]
+2020-11-11 21:19:49.264 INFO  reporter.Reporter - Current Temprature of City on UI: Texas is 23&#176C
+2020-11-11 21:19:49.264 INFO  reporter.Reporter - Varience Value: 4
+2020-11-11 21:19:49.266 INFO  reporter.Reporter - Test Complete:- Step Passed 
+2020-11-11 21:24:05.503 INFO  reporter.Reporter - TestCase:- testMethod Started
+2020-11-11 21:24:05.513 INFO  reporter.Utils - Move Report to zip file
+2020-11-11 21:24:22.030 INFO  reporter.Reporter - TestCase:- verifyTempratureSearchOnGUIPhase1() Started
+2020-11-11 21:24:22.030 INFO  reporter.Reporter - Checking the temprature for city: Delhi
+2020-11-11 21:24:23.967 DEBUG com.mts.pages.BasePage - Entering Textbox at location: By.id: LocationSearch_input
+2020-11-11 21:24:24.146 DEBUG com.mts.pages.BasePage - Checking for element is present at location: By.xpath: //div[contains(text(),'No results found')]
+2020-11-11 21:24:29.293 DEBUG com.mts.pages.BasePage - Clicking on button at location: By.xpath: //button[@id='LocationSearch_listbox-0']
+2020-11-11 21:24:31.424 DEBUG com.mts.pages.BasePage - Getting Text value from: By.xpath: //span[contains(@class,'CurrentConditions--tempValue')]
+2020-11-11 21:24:31.532 INFO  reporter.Reporter - Current Temprature of City on UI: Delhi is 20&#176C
+2020-11-11 21:24:31.532 INFO  reporter.Reporter - Checking the temprature for city: Tokyo
+2020-11-11 21:24:32.906 DEBUG com.mts.pages.BasePage - Entering Textbox at location: By.id: LocationSearch_input
+2020-11-11 21:24:33.205 DEBUG com.mts.pages.BasePage - Checking for element is present at location: By.xpath: //div[contains(text(),'No results found')]
+2020-11-11 21:24:38.541 DEBUG com.mts.pages.BasePage - Clicking on button at location: By.xpath: //button[@id='LocationSearch_listbox-0']
+2020-11-11 21:24:41.450 DEBUG com.mts.pages.BasePage - Getting Text value from: By.xpath: //span[contains(@class,'CurrentConditions--tempValue')]
+2020-11-11 21:24:41.545 INFO  reporter.Reporter - Current Temprature of City on UI: Tokyo is 8&#176C
+2020-11-11 21:24:41.545 INFO  reporter.Reporter - Checking the temprature for city: Indore
+2020-11-11 21:24:42.438 DEBUG com.mts.pages.BasePage - Entering Textbox at location: By.id: LocationSearch_input
+2020-11-11 21:24:42.778 DEBUG com.mts.pages.BasePage - Checking for element is present at location: By.xpath: //div[contains(text(),'No results found')]
+2020-11-11 21:24:47.900 DEBUG com.mts.pages.BasePage - Clicking on button at location: By.xpath: //button[@id='LocationSearch_listbox-0']
+2020-11-11 21:24:50.673 DEBUG com.mts.pages.BasePage - Getting Text value from: By.xpath: //span[contains(@class,'CurrentConditions--tempValue')]
+2020-11-11 21:24:50.765 INFO  reporter.Reporter - Current Temprature of City on UI: Indore is 19&#176C
+2020-11-11 21:24:50.765 INFO  reporter.Reporter - Checking the temprature for city: Mumbai
+2020-11-11 21:24:51.666 DEBUG com.mts.pages.BasePage - Entering Textbox at location: By.id: LocationSearch_input
+2020-11-11 21:24:51.854 DEBUG com.mts.pages.BasePage - Checking for element is present at location: By.xpath: //div[contains(text(),'No results found')]
+2020-11-11 21:24:57.002 DEBUG com.mts.pages.BasePage - Clicking on button at location: By.xpath: //button[@id='LocationSearch_listbox-0']
+2020-11-11 21:24:58.526 DEBUG com.mts.pages.BasePage - Getting Text value from: By.xpath: //span[contains(@class,'CurrentConditions--tempValue')]
+2020-11-11 21:24:58.595 INFO  reporter.Reporter - Current Temprature of City on UI: Mumbai is 28&#176C
+2020-11-11 21:24:58.595 INFO  reporter.Reporter - Checking the temprature for city: Kolkata
+2020-11-11 21:24:59.305 DEBUG com.mts.pages.BasePage - Entering Textbox at location: By.id: LocationSearch_input
+2020-11-11 21:24:59.536 DEBUG com.mts.pages.BasePage - Checking for element is present at location: By.xpath: //div[contains(text(),'No results found')]
+2020-11-11 21:25:04.672 DEBUG com.mts.pages.BasePage - Clicking on button at location: By.xpath: //button[@id='LocationSearch_listbox-0']
+2020-11-11 21:25:06.239 DEBUG com.mts.pages.BasePage - Getting Text value from: By.xpath: //span[contains(@class,'CurrentConditions--tempValue')]
+2020-11-11 21:25:06.327 INFO  reporter.Reporter - Current Temprature of City on UI: Kolkata is 25&#176C
+2020-11-11 21:25:06.328 INFO  reporter.Reporter - Checking the temprature for city: Berlin
+2020-11-11 21:25:07.076 DEBUG com.mts.pages.BasePage - Entering Textbox at location: By.id: LocationSearch_input
+2020-11-11 21:25:07.236 DEBUG com.mts.pages.BasePage - Checking for element is present at location: By.xpath: //div[contains(text(),'No results found')]
+2020-11-11 21:25:12.329 DEBUG com.mts.pages.BasePage - Clicking on button at location: By.xpath: //button[@id='LocationSearch_listbox-0']
+2020-11-11 21:25:14.411 DEBUG com.mts.pages.BasePage - Getting Text value from: By.xpath: //span[contains(@class,'CurrentConditions--tempValue')]
+2020-11-11 21:25:14.495 INFO  reporter.Reporter - Current Temprature of City on UI: Berlin is 7&#176C
+2020-11-11 21:25:14.495 INFO  reporter.Reporter - Checking the temprature for city: Texas
+2020-11-11 21:25:15.721 DEBUG com.mts.pages.BasePage - Entering Textbox at location: By.id: LocationSearch_input
+2020-11-11 21:25:15.994 DEBUG com.mts.pages.BasePage - Checking for element is present at location: By.xpath: //div[contains(text(),'No results found')]
+2020-11-11 21:25:21.324 DEBUG com.mts.pages.BasePage - Clicking on button at location: By.xpath: //button[@id='LocationSearch_listbox-0']
+2020-11-11 21:25:23.370 DEBUG com.mts.pages.BasePage - Getting Text value from: By.xpath: //span[contains(@class,'CurrentConditions--tempValue')]
+2020-11-11 21:25:23.449 INFO  reporter.Reporter - Current Temprature of City on UI: Texas is 23&#176C
+2020-11-11 21:25:23.449 INFO  reporter.Reporter - Varience Value: 4
+2020-11-11 21:25:23.450 INFO  reporter.Reporter - Test Complete:- Step Passed 
+2020-11-11 21:27:13.033 INFO  reporter.Reporter - TestCase:- verifyTempratureSearchOnGUIPhase1 Started
+2020-11-11 21:27:13.044 INFO  reporter.Utils - Move Report to zip file
+2020-11-11 21:27:29.484 INFO  reporter.Reporter - Checking the temprature for city: Delhi
+2020-11-11 21:27:31.382 DEBUG com.mts.pages.BasePage - Entering Textbox at location: By.id: LocationSearch_input
+2020-11-11 21:27:31.604 DEBUG com.mts.pages.BasePage - Checking for element is present at location: By.xpath: //div[contains(text(),'No results found')]
+2020-11-11 21:27:36.876 DEBUG com.mts.pages.BasePage - Clicking on button at location: By.xpath: //button[@id='LocationSearch_listbox-0']
+2020-11-11 21:27:38.305 DEBUG com.mts.pages.BasePage - Getting Text value from: By.xpath: //span[contains(@class,'CurrentConditions--tempValue')]
+2020-11-11 21:27:38.392 INFO  reporter.Reporter - Current Temprature of City on UI: Delhi is 20&#176C
+2020-11-11 21:27:38.394 INFO  reporter.Reporter - Checking the temprature for city: Tokyo
+2020-11-11 21:27:39.883 DEBUG com.mts.pages.BasePage - Entering Textbox at location: By.id: LocationSearch_input
+2020-11-11 21:27:40.038 DEBUG com.mts.pages.BasePage - Checking for element is present at location: By.xpath: //div[contains(text(),'No results found')]
+2020-11-11 21:27:45.358 DEBUG com.mts.pages.BasePage - Clicking on button at location: By.xpath: //button[@id='LocationSearch_listbox-0']
+2020-11-11 21:27:46.240 DEBUG com.mts.pages.BasePage - Getting Text value from: By.xpath: //span[contains(@class,'CurrentConditions--tempValue')]
+2020-11-11 21:27:46.325 INFO  reporter.Reporter - Current Temprature of City on UI: Tokyo is 8&#176C
+2020-11-11 21:27:46.325 INFO  reporter.Reporter - Checking the temprature for city: Indore
+2020-11-11 21:27:47.011 DEBUG com.mts.pages.BasePage - Entering Textbox at location: By.id: LocationSearch_input
+2020-11-11 21:27:47.321 DEBUG com.mts.pages.BasePage - Checking for element is present at location: By.xpath: //div[contains(text(),'No results found')]
+2020-11-11 21:27:52.491 DEBUG com.mts.pages.BasePage - Clicking on button at location: By.xpath: //button[@id='LocationSearch_listbox-0']
+2020-11-11 21:27:53.373 DEBUG com.mts.pages.BasePage - Getting Text value from: By.xpath: //span[contains(@class,'CurrentConditions--tempValue')]
+2020-11-11 21:27:53.442 INFO  reporter.Reporter - Current Temprature of City on UI: Indore is 19&#176C
+2020-11-11 21:27:53.442 INFO  reporter.Reporter - Checking the temprature for city: Mumbai
+2020-11-11 21:27:54.271 DEBUG com.mts.pages.BasePage - Entering Textbox at location: By.id: LocationSearch_input
+2020-11-11 21:27:54.500 DEBUG com.mts.pages.BasePage - Checking for element is present at location: By.xpath: //div[contains(text(),'No results found')]
+2020-11-11 21:27:59.673 DEBUG com.mts.pages.BasePage - Clicking on button at location: By.xpath: //button[@id='LocationSearch_listbox-0']
+2020-11-11 21:28:01.462 DEBUG com.mts.pages.BasePage - Getting Text value from: By.xpath: //span[contains(@class,'CurrentConditions--tempValue')]
+2020-11-11 21:28:01.568 INFO  reporter.Reporter - Current Temprature of City on UI: Mumbai is 28&#176C
+2020-11-11 21:28:01.569 INFO  reporter.Reporter - Checking the temprature for city: Kolkata
+2020-11-11 21:28:01.653 DEBUG com.mts.pages.BasePage - Entering Textbox at location: By.id: LocationSearch_input
+2020-11-11 21:28:01.866 DEBUG com.mts.pages.BasePage - Checking for element is present at location: By.xpath: //div[contains(text(),'No results found')]
+2020-11-11 21:28:07.070 DEBUG com.mts.pages.BasePage - Clicking on button at location: By.xpath: //button[@id='LocationSearch_listbox-0']
+2020-11-11 21:28:07.875 DEBUG com.mts.pages.BasePage - Getting Text value from: By.xpath: //span[contains(@class,'CurrentConditions--tempValue')]
+2020-11-11 21:28:07.939 INFO  reporter.Reporter - Current Temprature of City on UI: Kolkata is 25&#176C
+2020-11-11 21:28:07.939 INFO  reporter.Reporter - Checking the temprature for city: Berlin
+2020-11-11 21:28:08.625 DEBUG com.mts.pages.BasePage - Entering Textbox at location: By.id: LocationSearch_input
+2020-11-11 21:28:08.900 DEBUG com.mts.pages.BasePage - Checking for element is present at location: By.xpath: //div[contains(text(),'No results found')]
+2020-11-11 21:28:14.073 DEBUG com.mts.pages.BasePage - Clicking on button at location: By.xpath: //button[@id='LocationSearch_listbox-0']
+2020-11-11 21:28:14.802 DEBUG com.mts.pages.BasePage - Getting Text value from: By.xpath: //span[contains(@class,'CurrentConditions--tempValue')]
+2020-11-11 21:28:14.875 INFO  reporter.Reporter - Current Temprature of City on UI: Berlin is 7&#176C
+2020-11-11 21:28:14.875 INFO  reporter.Reporter - Checking the temprature for city: Texas
+2020-11-11 21:28:16.143 DEBUG com.mts.pages.BasePage - Entering Textbox at location: By.id: LocationSearch_input
+2020-11-11 21:28:16.321 DEBUG com.mts.pages.BasePage - Checking for element is present at location: By.xpath: //div[contains(text(),'No results found')]
+2020-11-11 21:28:21.487 DEBUG com.mts.pages.BasePage - Clicking on button at location: By.xpath: //button[@id='LocationSearch_listbox-0']
+2020-11-11 21:28:22.396 DEBUG com.mts.pages.BasePage - Getting Text value from: By.xpath: //span[contains(@class,'CurrentConditions--tempValue')]
+2020-11-11 21:28:22.458 INFO  reporter.Reporter - Current Temprature of City on UI: Texas is 23&#176C
+2020-11-11 21:28:22.459 INFO  reporter.Reporter - Varience Value: 4
+2020-11-11 21:28:22.459 INFO  reporter.Reporter - Test Complete:- Step Passed 

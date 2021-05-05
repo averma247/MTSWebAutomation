@@ -1,0 +1,28 @@
+{
+	"cities": [
+		{
+			"cityname": "Delhi",
+			"Variance": 3
+		},
+		{
+			"cityname": "Chandigarh",
+			"Variance": 3
+		},
+		{
+			"cityname": "Indore",
+			"Variance": 3
+		},
+		{
+			"cityname": "Mumbai",
+			"Variance": 3
+		},
+		{
+			"cityname": "Newyork",
+			"Variance": 3
+		},
+		{
+			"cityname": "Texas",
+			"Variance": 3
+		}
+	]
+}

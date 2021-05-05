@@ -1,0 +1,8 @@
+2020-11-04 10:27:32.941 INFO  reporter.Reporter - TestCase:- verifyTempratureSearchOnGUIPhase1() Started
+2020-11-04 10:27:32.956 INFO  reporter.Utils - Move Report to zip file
+2020-11-04 10:27:34.866 DEBUG com.mts.pages.BasePage - Entering Textbox at location: By.id: LocationSearch_input
+2020-11-04 10:27:35.067 DEBUG com.mts.pages.BasePage - Checking for element is present at location: By.xpath: //div[contains(text(),'No results found')]
+2020-11-04 10:27:43.586 DEBUG com.mts.pages.BasePage - Clicking on button at location: By.xpath: //button[@id='LocationSearch_listbox-0']
+2020-11-04 10:27:45.216 DEBUG com.mts.pages.BasePage - Getting Text value from: By.xpath: //span[contains(@class,'CurrentConditions--tempValue')]
+2020-11-04 10:27:45.302 INFO  reporter.Reporter - Current Temprature of City on UI: Delhi is 23
+2020-11-04 10:27:45.308 INFO  reporter.Reporter - Test Complete:- Step Passed 

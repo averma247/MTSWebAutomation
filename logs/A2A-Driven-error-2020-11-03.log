@@ -1,0 +1,55 @@
+2020-11-03 13:14:07.212 ERROR reporter.Reporter - Failure cause Expected condition failed: waiting for visibility of element located by By.xpath: //span[contains(@class,'CurrentConditions--tempValue')] (tried for 15 second(s) with 500 milliseconds interval)
+2020-11-03 13:14:07.225 ERROR reporter.Reporter - Test Complete
+2020-11-03 13:39:03.469 ERROR reporter.Reporter - Failure cause Expected condition failed: waiting for element to be clickable: By.id: //button[@id='LocationSearch_listbox-0'] (tried for 10 second(s) with 500 milliseconds interval)
+2020-11-03 13:39:03.470 ERROR reporter.Reporter - Test Complete
+2020-11-03 13:40:02.924 ERROR reporter.Reporter - Failure cause Expected condition failed: waiting for element to be clickable: By.id: //button[@id='LocationSearch_listbox-0'] (tried for 10 second(s) with 500 milliseconds interval)
+2020-11-03 13:40:02.935 ERROR reporter.Reporter - Test Complete
+2020-11-03 13:43:44.970 ERROR reporter.Reporter - Failure cause Expected condition failed: waiting for presence of element located by: By.id: //button[@id='LocationSearch_listbox-0'] (tried for 10 second(s) with 500 milliseconds interval)
+2020-11-03 13:43:44.970 ERROR reporter.Reporter - Test Complete
+2020-11-03 13:53:53.317 ERROR reporter.Reporter - Failure cause Element should have been "select" but was "div"
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'AJAY3147361', ip: '192.168.0.160', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_251'
+Driver info: driver.version: unknown
+2020-11-03 13:53:53.318 ERROR reporter.Reporter - Test Complete
+2020-11-03 14:41:55.876 ERROR reporter.Reporter - Failure cause Expected condition failed: waiting for element to be clickable: By.xpath: //button[@id='LocationSearch_listbox-0'] (tried for 10 second(s) with 500 milliseconds interval)
+2020-11-03 14:41:55.877 ERROR reporter.Reporter - Test Complete
+2020-11-03 14:44:49.704 ERROR reporter.Reporter - Failure cause No result found in the system. expected object to not be null
+2020-11-03 14:44:49.705 ERROR reporter.Reporter - Test Complete
+2020-11-03 14:51:45.309 ERROR reporter.Reporter - Failure cause Expected condition failed: waiting for presence of element located by: By.xpath: //div[contains(text(),'No results found')] (tried for 5 second(s) with 500 milliseconds interval)
+2020-11-03 14:51:45.309 ERROR reporter.Reporter - Test Complete
+2020-11-03 14:56:06.949 ERROR reporter.Reporter - Failure cause Expected condition failed: waiting for visibility of element located by By.xpath: //span[contains(@class,'CurrentConditions--tempValue')] (tried for 15 second(s) with 500 milliseconds interval)
+2020-11-03 14:56:06.949 ERROR reporter.Reporter - Test Complete
+2020-11-03 18:31:20.696 ERROR reporter.Reporter - Failure cause No result found in the system. expected object to not be null
+2020-11-03 18:31:20.696 ERROR reporter.Reporter - Test Complete
+2020-11-03 18:33:04.009 ERROR reporter.Reporter - Failure cause no such element: Unable to locate element: {"method":"xpath","selector":"//div[contains(text(),'No results found')]"}
+  (Session info: chrome=86.0.4240.111)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'AJAY3147361', ip: '192.168.0.160', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_251'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 86.0.4240.111, chrome: {chromedriverVersion: 86.0.4240.22 (398b0743353ff..., userDataDir: C:\Users\AJAYVE~1\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:55642}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:virtualAuthenticators: true}
+Session ID: 3686cb863ec7df8b2a0105906030d53d
+*** Element info: {Using=xpath, value=//div[contains(text(),'No results found')]}
+2020-11-03 18:33:04.010 ERROR reporter.Reporter - Test Complete
+2020-11-03 18:46:57.051 ERROR reporter.Reporter - Failure cause No result found in the system. expected object to not be null
+2020-11-03 18:46:57.051 ERROR reporter.Reporter - Test Complete
+2020-11-03 18:53:35.802 ERROR reporter.Reporter - Failure cause No result found in the system. expected object to not be null
+2020-11-03 18:53:35.802 ERROR reporter.Reporter - Test Complete
+2020-11-03 18:54:46.971 ERROR reporter.Reporter - Failure cause No result found in the system. expected object to not be null
+2020-11-03 18:54:46.971 ERROR reporter.Reporter - Test Complete
+2020-11-03 18:56:51.800 ERROR reporter.Reporter - Failure cause No result found in the system. expected object to not be null
+2020-11-03 18:56:51.801 ERROR reporter.Reporter - Test Complete
+2020-11-03 18:58:17.559 ERROR reporter.Reporter - Failure cause No result found in the system. expected object to not be null
+2020-11-03 18:58:17.560 ERROR reporter.Reporter - Test Complete
+2020-11-03 18:59:42.466 ERROR reporter.Reporter - Failure cause No result found in the system. expected object to not be null
+2020-11-03 18:59:42.467 ERROR reporter.Reporter - Test Complete
+2020-11-03 19:04:47.406 ERROR reporter.Reporter - Failure cause No result found in the system. expected object to not be null
+2020-11-03 19:04:47.407 ERROR reporter.Reporter - Test Complete
+2020-11-03 19:05:07.129 ERROR reporter.Reporter - Failure cause No result found in the system. expected object to not be null
+2020-11-03 19:05:07.129 ERROR reporter.Reporter - Test Complete
+2020-11-03 19:06:20.480 ERROR reporter.Reporter - Failure cause No result found in the system. expected object to not be null
+2020-11-03 19:06:20.480 ERROR reporter.Reporter - Test Complete
+2020-11-03 19:08:59.981 ERROR reporter.Reporter - Failure cause No result found in the system. expected object to not be null
+2020-11-03 19:08:59.981 ERROR reporter.Reporter - Test Complete
+2020-11-03 19:11:43.500 ERROR reporter.Reporter - Failure cause No result found in the system. expected object to not be null
+2020-11-03 19:11:43.501 ERROR reporter.Reporter - Test Complete
