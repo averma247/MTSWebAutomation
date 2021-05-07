@@ -1,56 +1,56 @@
-2020-10-28 12:15:33.275 INFO  reporter.Reporter - TestCase:- verifyTempSearchOnGUI() Started
-2020-10-28 12:15:33.282 INFO  reporter.Utils - Move Report to zip file
-2020-10-28 12:15:35.124 INFO  reporter.Reporter - Delhi is searched.
-2020-10-28 12:15:35.130 INFO  reporter.Reporter - Test Complete:- Step Passed 
-2020-10-28 12:31:40.543 INFO  reporter.Reporter - TestCase:- verifyTempSearchOnGUI() Started
-2020-10-28 12:31:40.552 INFO  reporter.Utils - Move Report to zip file
-2020-10-28 12:31:42.354 INFO  reporter.Reporter - Delhi is searched.
-2020-10-28 12:31:42.360 INFO  reporter.Reporter - Test Complete:- Step Passed 
-2020-10-28 12:33:17.799 INFO  reporter.Reporter - TestCase:- verifyTempSearchOnGUI() Started
-2020-10-28 12:33:17.805 INFO  reporter.Utils - Move Report to zip file
-2020-10-28 12:33:19.697 INFO  reporter.Reporter - Delhi is searched.
-2020-10-28 12:33:19.702 INFO  reporter.Reporter - Test Complete:- Step Passed 
-2020-10-28 12:48:53.178 INFO  reporter.Reporter - TestCase:- verifyTempSearchOnGUI() Started
-2020-10-28 12:48:53.183 INFO  reporter.Utils - Move Report to zip file
-2020-10-28 12:48:55.502 INFO  reporter.Reporter - Delhi is searched.
-2020-10-28 12:48:55.507 INFO  reporter.Reporter - Test Complete:- Step Passed 
-2020-10-28 12:50:04.978 INFO  reporter.Reporter - TestCase:- verifyTempSearchOnGUI() Started
-2020-10-28 12:50:04.986 INFO  reporter.Utils - Move Report to zip file
-2020-10-28 12:50:22.437 INFO  reporter.Reporter - Delhi is searched.
-2020-10-28 12:50:22.443 INFO  reporter.Reporter - Test Complete:- Step Passed 
-2020-10-28 19:07:01.043 INFO  reporter.Reporter - TestCase:- verifyTempSearchOnGUI() Started
-2020-10-28 19:07:01.051 INFO  reporter.Utils - Move Report to zip file
-2020-10-28 19:07:03.383 INFO  reporter.Reporter - Delhi is searched.
-2020-10-28 19:07:03.388 INFO  reporter.Reporter - Test Complete:- Step Passed 
-2020-10-28 19:50:19.548 INFO  reporter.Reporter - TestCase:- verifyTempSearchOnGUI() Started
-2020-10-28 19:50:19.557 INFO  reporter.Utils - Move Report to zip file
+2020-10-28 12:15:33.275 INFO  com.mts.reporter.Reporter - TestCase:- verifyTempSearchOnGUI() Started
+2020-10-28 12:15:33.282 INFO  com.mts.reporter.Utils - Move Report to zip file
+2020-10-28 12:15:35.124 INFO  com.mts.reporter.Reporter - Delhi is searched.
+2020-10-28 12:15:35.130 INFO  com.mts.reporter.Reporter - Test Complete:- Step Passed 
+2020-10-28 12:31:40.543 INFO  com.mts.reporter.Reporter - TestCase:- verifyTempSearchOnGUI() Started
+2020-10-28 12:31:40.552 INFO  com.mts.reporter.Utils - Move Report to zip file
+2020-10-28 12:31:42.354 INFO  com.mts.reporter.Reporter - Delhi is searched.
+2020-10-28 12:31:42.360 INFO  com.mts.reporter.Reporter - Test Complete:- Step Passed 
+2020-10-28 12:33:17.799 INFO  com.mts.reporter.Reporter - TestCase:- verifyTempSearchOnGUI() Started
+2020-10-28 12:33:17.805 INFO  com.mts.reporter.Utils - Move Report to zip file
+2020-10-28 12:33:19.697 INFO  com.mts.reporter.Reporter - Delhi is searched.
+2020-10-28 12:33:19.702 INFO  com.mts.reporter.Reporter - Test Complete:- Step Passed 
+2020-10-28 12:48:53.178 INFO  com.mts.reporter.Reporter - TestCase:- verifyTempSearchOnGUI() Started
+2020-10-28 12:48:53.183 INFO  com.mts.reporter.Utils - Move Report to zip file
+2020-10-28 12:48:55.502 INFO  com.mts.reporter.Reporter - Delhi is searched.
+2020-10-28 12:48:55.507 INFO  com.mts.reporter.Reporter - Test Complete:- Step Passed 
+2020-10-28 12:50:04.978 INFO  com.mts.reporter.Reporter - TestCase:- verifyTempSearchOnGUI() Started
+2020-10-28 12:50:04.986 INFO  com.mts.reporter.Utils - Move Report to zip file
+2020-10-28 12:50:22.437 INFO  com.mts.reporter.Reporter - Delhi is searched.
+2020-10-28 12:50:22.443 INFO  com.mts.reporter.Reporter - Test Complete:- Step Passed 
+2020-10-28 19:07:01.043 INFO  com.mts.reporter.Reporter - TestCase:- verifyTempSearchOnGUI() Started
+2020-10-28 19:07:01.051 INFO  com.mts.reporter.Utils - Move Report to zip file
+2020-10-28 19:07:03.383 INFO  com.mts.reporter.Reporter - Delhi is searched.
+2020-10-28 19:07:03.388 INFO  com.mts.reporter.Reporter - Test Complete:- Step Passed 
+2020-10-28 19:50:19.548 INFO  com.mts.reporter.Reporter - TestCase:- verifyTempSearchOnGUI() Started
+2020-10-28 19:50:19.557 INFO  com.mts.reporter.Utils - Move Report to zip file
 2020-10-28 19:50:21.442 DEBUG com.mts.pages.BasePage - Entering Textbox at location: By.id: LocationSearch_input
 2020-10-28 19:50:21.595 DEBUG com.mts.pages.BasePage - Getting Text value from: By.id: //span[contains(@class,'CurrentConditions--tempValue')]
-2020-10-28 19:52:26.729 INFO  reporter.Reporter - TestCase:- verifyTempratureSearchOnGUI() Started
-2020-10-28 19:52:26.735 INFO  reporter.Utils - Move Report to zip file
+2020-10-28 19:52:26.729 INFO  com.mts.reporter.Reporter - TestCase:- verifyTempratureSearchOnGUI() Started
+2020-10-28 19:52:26.735 INFO  com.mts.reporter.Utils - Move Report to zip file
 2020-10-28 19:52:29.320 DEBUG com.mts.pages.BasePage - Entering Textbox at location: By.id: LocationSearch_input
 2020-10-28 19:52:29.471 DEBUG com.mts.pages.BasePage - Getting Text value from: By.xpath: //span[contains(@class,'CurrentConditions--tempValue')]
-2020-10-28 19:52:42.194 INFO  reporter.Reporter - Current Temprature of City: Delhi is 24°
-2020-10-28 19:52:42.196 INFO  reporter.Reporter - Test Complete:- Step Passed 
-2020-10-28 19:53:27.472 INFO  reporter.Reporter - TestCase:- verifyTempratureSearchOnGUI() Started
-2020-10-28 19:53:27.481 INFO  reporter.Utils - Move Report to zip file
+2020-10-28 19:52:42.194 INFO  com.mts.reporter.Reporter - Current Temprature of City: Delhi is 24ï¿½
+2020-10-28 19:52:42.196 INFO  com.mts.reporter.Reporter - Test Complete:- Step Passed 
+2020-10-28 19:53:27.472 INFO  com.mts.reporter.Reporter - TestCase:- verifyTempratureSearchOnGUI() Started
+2020-10-28 19:53:27.481 INFO  com.mts.reporter.Utils - Move Report to zip file
 2020-10-28 19:53:29.050 DEBUG com.mts.pages.BasePage - Entering Textbox at location: By.id: LocationSearch_input
 2020-10-28 19:53:29.268 DEBUG com.mts.pages.BasePage - Getting Text value from: By.xpath: //span[contains(@class,'CurrentConditions--tempValue')]
-2020-10-28 19:53:43.211 INFO  reporter.Reporter - Current Temprature of City: Delhi is 24°
-2020-10-28 19:53:43.216 INFO  reporter.Reporter - Test Complete:- Step Passed 
-2020-10-28 19:55:00.785 INFO  reporter.Reporter - TestCase:- verifyTempratureSearchOnGUI() Started
-2020-10-28 19:55:00.791 INFO  reporter.Utils - Move Report to zip file
+2020-10-28 19:53:43.211 INFO  com.mts.reporter.Reporter - Current Temprature of City: Delhi is 24ï¿½
+2020-10-28 19:53:43.216 INFO  com.mts.reporter.Reporter - Test Complete:- Step Passed 
+2020-10-28 19:55:00.785 INFO  com.mts.reporter.Reporter - TestCase:- verifyTempratureSearchOnGUI() Started
+2020-10-28 19:55:00.791 INFO  com.mts.reporter.Utils - Move Report to zip file
 2020-10-28 19:55:02.762 DEBUG com.mts.pages.BasePage - Entering Textbox at location: By.id: LocationSearch_input
 2020-10-28 19:55:02.935 DEBUG com.mts.pages.BasePage - Getting Text value from: By.xpath: //span[contains(@class,'CurrentConditions--tempValue')]
-2020-10-28 19:55:34.789 INFO  reporter.Reporter - Current Temprature of City: Delhi is 24°
-2020-10-28 19:55:34.797 INFO  reporter.Reporter - Test Complete:- Step Passed 
-2020-10-28 19:59:58.029 INFO  reporter.Reporter - TestCase:- verifyTempratureSearchOnGUI() Started
-2020-10-28 19:59:58.037 INFO  reporter.Utils - Move Report to zip file
+2020-10-28 19:55:34.789 INFO  com.mts.reporter.Reporter - Current Temprature of City: Delhi is 24ï¿½
+2020-10-28 19:55:34.797 INFO  com.mts.reporter.Reporter - Test Complete:- Step Passed 
+2020-10-28 19:59:58.029 INFO  com.mts.reporter.Reporter - TestCase:- verifyTempratureSearchOnGUI() Started
+2020-10-28 19:59:58.037 INFO  com.mts.reporter.Utils - Move Report to zip file
 2020-10-28 20:00:00.605 DEBUG com.mts.pages.BasePage - Entering Textbox at location: By.id: LocationSearch_input
 2020-10-28 20:00:00.811 DEBUG com.mts.pages.BasePage - Getting Text value from: By.xpath: //span[contains(@class,'CurrentConditions--tempValue')]
-2020-10-28 20:07:54.887 INFO  reporter.Reporter - TestCase:- verifyTempratureSearchOnGUI() Started
-2020-10-28 20:07:54.900 INFO  reporter.Utils - Move Report to zip file
+2020-10-28 20:07:54.887 INFO  com.mts.reporter.Reporter - TestCase:- verifyTempratureSearchOnGUI() Started
+2020-10-28 20:07:54.900 INFO  com.mts.reporter.Utils - Move Report to zip file
 2020-10-28 20:07:56.981 DEBUG com.mts.pages.BasePage - Entering Textbox at location: By.id: LocationSearch_input
 2020-10-28 20:07:57.166 DEBUG com.mts.pages.BasePage - Getting Text value from: By.xpath: //span[contains(@class,'CurrentConditions--tempValue')]
-2020-10-28 20:08:02.611 INFO  reporter.Reporter - Current Temprature of City: Delhi is 23
-2020-10-28 20:08:02.616 INFO  reporter.Reporter - Test Complete:- Step Passed 
+2020-10-28 20:08:02.611 INFO  com.mts.reporter.Reporter - Current Temprature of City: Delhi is 23
+2020-10-28 20:08:02.616 INFO  com.mts.reporter.Reporter - Test Complete:- Step Passed 

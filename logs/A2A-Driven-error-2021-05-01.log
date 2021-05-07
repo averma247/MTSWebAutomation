@@ -1,0 +1,8 @@
+2021-05-01 00:26:40.538 ERROR com.mts.reporter.Reporter - Failure cause chrome not reachable
+  (Session info: chrome=90.0.4430.93)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'AJAY3147361', ip: '192.168.1.13', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_181'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 90.0.4430.93, chrome: {chromedriverVersion: 90.0.4430.24 (4c6d850f087da..., userDataDir: C:\Users\AJAYVE~1\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:64502}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 1f00f1e7f1e28a7d49b75b49c686b764
+2021-05-01 00:26:40.544 ERROR com.mts.reporter.Reporter - Test Complete

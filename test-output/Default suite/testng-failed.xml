@@ -5,10 +5,12 @@
     <classes>
       <class name="weatherreporttest.WeatherReportTest">
         <methods>
-          <include name="testMethod" invocation-numbers="0"/>
-          <include name="cleanup"/>
-          <include name="init"/>
+          <include name="verifyTempratureSearchOnGUIPhase1" invocation-numbers="0"/>
+          <include name="setup"/>
           <include name="openApplication"/>
+          <include name="beforeMethodSetup"/>
+          <include name="init"/>
+          <include name="cleanup"/>
         </methods>
       </class> <!-- weatherreporttest.WeatherReportTest -->
     </classes>

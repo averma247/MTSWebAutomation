@@ -38,7 +38,7 @@
     <Loggers>
         <Root level="ALL">
             <AppenderRef ref="Console" level="ALL"/>
-            <AppenderRef ref="fileLogger" level="TRACE"/>
+            <AppenderRef ref="fileLogger" level="DEBUG"/>
             <AppenderRef ref="errorLogger" level="ERROR"/>
         </Root>
         <logger name="org.apache" level="ERROR"/>

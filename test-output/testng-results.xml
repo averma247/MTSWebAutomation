@@ -2,27 +2,35 @@
 <testng-results skipped="0" failed="0" ignored="1" total="2" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite name="Default suite" duration-ms="89550" started-at="2020-11-12T05:47:33Z" finished-at="2020-11-12T05:49:03Z">
+  <suite name="Default suite" duration-ms="179356" started-at="2021-05-07T08:33:15Z" finished-at="2021-05-07T08:36:14Z">
     <groups>
     </groups>
-    <test name="Default test" duration-ms="89550" started-at="2020-11-12T05:47:33Z" finished-at="2020-11-12T05:49:03Z">
+    <test name="Default test" duration-ms="179356" started-at="2021-05-07T08:33:15Z" finished-at="2021-05-07T08:36:14Z">
       <class name="weatherreporttest.WeatherReportTest">
-        <test-method status="PASS" signature="init()[pri:0, instance:weatherreporttest.WeatherReportTest@7cd62f43]" name="init" is-config="true" duration-ms="11" started-at="2020-11-12T11:17:33Z" finished-at="2020-11-12T11:17:33Z">
+        <test-method status="PASS" signature="init()[pri:0, instance:weatherreporttest.WeatherReportTest@6155d082]" name="init" is-config="true" duration-ms="18" started-at="2021-05-07T14:03:15Z" finished-at="2021-05-07T14:03:15Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- init -->
-        <test-method status="PASS" signature="openApplication(java.lang.reflect.Method)[pri:0, instance:weatherreporttest.WeatherReportTest@7cd62f43]" name="openApplication" is-config="true" duration-ms="18098" started-at="2020-11-12T11:17:33Z" finished-at="2020-11-12T11:17:51Z">
+        <test-method status="PASS" signature="openApplication()[pri:0, instance:weatherreporttest.WeatherReportTest@6155d082]" name="openApplication" is-config="true" duration-ms="36572" started-at="2021-05-07T14:03:15Z" finished-at="2021-05-07T14:03:51Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openApplication -->
+        <test-method status="PASS" signature="setup()[pri:0, instance:weatherreporttest.WeatherReportTest@6155d082]" name="setup" is-config="true" duration-ms="21" started-at="2021-05-07T14:03:51Z" finished-at="2021-05-07T14:03:51Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="beforeMethodSetup(java.lang.reflect.Method)[pri:0, instance:weatherreporttest.WeatherReportTest@6155d082]" name="beforeMethodSetup" is-config="true" duration-ms="153" started-at="2021-05-07T14:04:33Z" finished-at="2021-05-07T14:04:33Z">
           <params>
             <param index="0">
               <value>
-                <![CDATA[public void weatherreporttest.WeatherReportTest.verifyTempratureSearchOnGUIPhase1(jsons.TestJSONData) throws java.lang.InterruptedException]]>
+                <![CDATA[public void weatherreporttest.WeatherReportTest.verifyTempratureSearchOnGUIPhase1(com.mts.jsons.TestJSONData) throws java.lang.InterruptedException]]>
               </value>
             </param>
           </params>
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- openApplication -->
-        <test-method status="PASS" signature="verifyTempratureSearchOnGUIPhase1(jsons.TestJSONData)[pri:0, instance:weatherreporttest.WeatherReportTest@7cd62f43]" name="verifyTempratureSearchOnGUIPhase1" duration-ms="66287" started-at="2020-11-12T11:17:51Z" data-provider="citydata" finished-at="2020-11-12T11:18:58Z">
+        </test-method> <!-- beforeMethodSetup -->
+        <test-method status="PASS" signature="verifyTempratureSearchOnGUIPhase1(com.mts.jsons.TestJSONData)[pri:0, instance:weatherreporttest.WeatherReportTest@6155d082]" name="verifyTempratureSearchOnGUIPhase1" duration-ms="99181" started-at="2021-05-07T14:04:33Z" data-provider="citydata" finished-at="2021-05-07T14:06:12Z">
           <params>
             <param index="0">
               <value>
@@ -33,11 +41,11 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- verifyTempratureSearchOnGUIPhase1 -->
-        <test-method status="PASS" signature="cleanup(org.testng.ITestResult)[pri:0, instance:weatherreporttest.WeatherReportTest@7cd62f43]" name="cleanup" is-config="true" duration-ms="5063" started-at="2020-11-12T11:18:58Z" finished-at="2020-11-12T11:19:03Z">
+        <test-method status="PASS" signature="cleanup(org.testng.ITestResult)[pri:0, instance:weatherreporttest.WeatherReportTest@6155d082]" name="cleanup" is-config="true" duration-ms="1462" started-at="2021-05-07T14:06:12Z" finished-at="2021-05-07T14:06:14Z">
           <params>
             <param index="0">
               <value>
-                <![CDATA[[TestResult name=verifyTempratureSearchOnGUIPhase1 status=SUCCESS method=WeatherReportTest.verifyTempratureSearchOnGUIPhase1(jsons.TestJSONData)[pri:0, instance:weatherreporttest.WeatherReportTest@7cd62f43] output={null}]]]>
+                <![CDATA[[TestResult name=verifyTempratureSearchOnGUIPhase1 status=SUCCESS method=WeatherReportTest.verifyTempratureSearchOnGUIPhase1(com.mts.jsons.TestJSONData)[pri:0, instance:weatherreporttest.WeatherReportTest@6155d082] output={null}]]]>
               </value>
             </param>
           </params>

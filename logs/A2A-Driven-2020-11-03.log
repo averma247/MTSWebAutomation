@@ -1,166 +1,166 @@
-2020-11-03 13:12:32.224 INFO  reporter.Reporter - TestCase:- verifyTempratureSearchOnGUIPhase1() Started
-2020-11-03 13:12:32.245 INFO  reporter.Utils - Move Report to zip file
+2020-11-03 13:12:32.224 INFO  com.mts.reporter.Reporter - TestCase:- verifyTempratureSearchOnGUIPhase1() Started
+2020-11-03 13:12:32.245 INFO  com.mts.reporter.Utils - Move Report to zip file
 2020-11-03 13:12:34.381 DEBUG com.mts.pages.BasePage - Entering Textbox at location: By.id: LocationSearch_input
 2020-11-03 13:12:34.572 DEBUG com.mts.pages.BasePage - Getting Text value from: By.xpath: //span[contains(@class,'CurrentConditions--tempValue')]
-2020-11-03 13:12:51.001 INFO  reporter.Reporter - Current Temprature of City on UI: Delhi is 28
-2020-11-03 13:12:51.009 INFO  reporter.Reporter - Test Complete:- Step Passed 
-2020-11-03 13:13:35.375 INFO  reporter.Reporter - TestCase:- verifyTempratureSearchOnGUIPhase1() Started
-2020-11-03 13:13:35.383 INFO  reporter.Utils - Move Report to zip file
+2020-11-03 13:12:51.001 INFO  com.mts.reporter.Reporter - Current Temprature of City on UI: Delhi is 28
+2020-11-03 13:12:51.009 INFO  com.mts.reporter.Reporter - Test Complete:- Step Passed 
+2020-11-03 13:13:35.375 INFO  com.mts.reporter.Reporter - TestCase:- verifyTempratureSearchOnGUIPhase1() Started
+2020-11-03 13:13:35.383 INFO  com.mts.reporter.Utils - Move Report to zip file
 2020-11-03 13:13:36.867 DEBUG com.mts.pages.BasePage - Entering Textbox at location: By.id: LocationSearch_input
 2020-11-03 13:13:37.116 DEBUG com.mts.pages.BasePage - Getting Text value from: By.xpath: //span[contains(@class,'CurrentConditions--tempValue')]
-2020-11-03 13:38:31.631 INFO  reporter.Reporter - TestCase:- verifyTempratureSearchOnGUIPhase1() Started
-2020-11-03 13:38:31.640 INFO  reporter.Utils - Move Report to zip file
+2020-11-03 13:38:31.631 INFO  com.mts.reporter.Reporter - TestCase:- verifyTempratureSearchOnGUIPhase1() Started
+2020-11-03 13:38:31.640 INFO  com.mts.reporter.Utils - Move Report to zip file
 2020-11-03 13:38:33.248 DEBUG com.mts.pages.BasePage - Entering Textbox at location: By.id: LocationSearch_input
-2020-11-03 13:39:31.123 INFO  reporter.Reporter - TestCase:- verifyTempratureSearchOnGUIPhase1() Started
-2020-11-03 13:39:31.140 INFO  reporter.Utils - Move Report to zip file
+2020-11-03 13:39:31.123 INFO  com.mts.reporter.Reporter - TestCase:- verifyTempratureSearchOnGUIPhase1() Started
+2020-11-03 13:39:31.140 INFO  com.mts.reporter.Utils - Move Report to zip file
 2020-11-03 13:39:32.650 DEBUG com.mts.pages.BasePage - Entering Textbox at location: By.id: LocationSearch_input
-2020-11-03 13:43:12.604 INFO  reporter.Reporter - TestCase:- verifyTempratureSearchOnGUIPhase1() Started
-2020-11-03 13:43:12.619 INFO  reporter.Utils - Move Report to zip file
+2020-11-03 13:43:12.604 INFO  com.mts.reporter.Reporter - TestCase:- verifyTempratureSearchOnGUIPhase1() Started
+2020-11-03 13:43:12.619 INFO  com.mts.reporter.Utils - Move Report to zip file
 2020-11-03 13:43:14.687 DEBUG com.mts.pages.BasePage - Entering Textbox at location: By.id: LocationSearch_input
-2020-11-03 13:53:28.126 INFO  reporter.Reporter - TestCase:- verifyTempratureSearchOnGUIPhase1() Started
-2020-11-03 13:53:28.135 INFO  reporter.Utils - Move Report to zip file
+2020-11-03 13:53:28.126 INFO  com.mts.reporter.Reporter - TestCase:- verifyTempratureSearchOnGUIPhase1() Started
+2020-11-03 13:53:28.135 INFO  com.mts.reporter.Utils - Move Report to zip file
 2020-11-03 13:53:45.769 DEBUG com.mts.pages.BasePage - Entering Textbox at location: By.id: LocationSearch_input
-2020-11-03 14:04:23.552 INFO  reporter.Reporter - TestCase:- verifyTempratureSearchOnGUIPhase1() Started
-2020-11-03 14:04:23.560 INFO  reporter.Utils - Move Report to zip file
+2020-11-03 14:04:23.552 INFO  com.mts.reporter.Reporter - TestCase:- verifyTempratureSearchOnGUIPhase1() Started
+2020-11-03 14:04:23.560 INFO  com.mts.reporter.Utils - Move Report to zip file
 2020-11-03 14:04:25.616 DEBUG com.mts.pages.BasePage - Entering Textbox at location: By.id: LocationSearch_input
 2020-11-03 14:04:26.913 DEBUG com.mts.pages.BasePage - Clicking on button at location: By.xpath: //button[@id='LocationSearch_listbox-0']
 2020-11-03 14:04:28.719 DEBUG com.mts.pages.BasePage - Getting Text value from: By.xpath: //span[contains(@class,'CurrentConditions--tempValue')]
-2020-11-03 14:04:29.059 INFO  reporter.Reporter - Current Temprature of City on UI: Delhi is 29
-2020-11-03 14:04:29.065 INFO  reporter.Reporter - Test Complete:- Step Passed 
-2020-11-03 14:38:42.502 INFO  reporter.Reporter - TestCase:- verifyTempratureSearchOnGUIPhase1() Started
-2020-11-03 14:38:42.508 INFO  reporter.Utils - Move Report to zip file
+2020-11-03 14:04:29.059 INFO  com.mts.reporter.Reporter - Current Temprature of City on UI: Delhi is 29
+2020-11-03 14:04:29.065 INFO  com.mts.reporter.Reporter - Test Complete:- Step Passed 
+2020-11-03 14:38:42.502 INFO  com.mts.reporter.Reporter - TestCase:- verifyTempratureSearchOnGUIPhase1() Started
+2020-11-03 14:38:42.508 INFO  com.mts.reporter.Utils - Move Report to zip file
 2020-11-03 14:38:44.264 DEBUG com.mts.pages.BasePage - Entering Textbox at location: By.id: LocationSearch_input
 2020-11-03 14:38:45.526 DEBUG com.mts.pages.BasePage - Clicking on button at location: By.xpath: //button[@id='LocationSearch_listbox-0']
 2020-11-03 14:38:46.919 DEBUG com.mts.pages.BasePage - Getting Text value from: By.xpath: //span[contains(@class,'CurrentConditions--tempValue')]
-2020-11-03 14:38:46.999 INFO  reporter.Reporter - Current Temprature of City on UI: Delhi is 29
-2020-11-03 14:38:47.003 INFO  reporter.Reporter - Test Complete:- Step Passed 
-2020-11-03 14:40:26.832 INFO  reporter.Reporter - TestCase:- verifyTempratureSearchOnGUIPhase1() Started
-2020-11-03 14:40:26.848 INFO  reporter.Utils - Move Report to zip file
+2020-11-03 14:38:46.999 INFO  com.mts.reporter.Reporter - Current Temprature of City on UI: Delhi is 29
+2020-11-03 14:38:47.003 INFO  com.mts.reporter.Reporter - Test Complete:- Step Passed 
+2020-11-03 14:40:26.832 INFO  com.mts.reporter.Reporter - TestCase:- verifyTempratureSearchOnGUIPhase1() Started
+2020-11-03 14:40:26.848 INFO  com.mts.reporter.Utils - Move Report to zip file
 2020-11-03 14:40:28.617 DEBUG com.mts.pages.BasePage - Entering Textbox at location: By.id: LocationSearch_input
 2020-11-03 14:40:28.796 DEBUG com.mts.pages.BasePage - Checking for element is present at location: By.xpath: //div[contains(text(),'No results found')]
 2020-11-03 14:40:30.096 DEBUG com.mts.pages.BasePage - Clicking on button at location: By.xpath: //button[@id='LocationSearch_listbox-0']
 2020-11-03 14:40:30.943 DEBUG com.mts.pages.BasePage - Getting Text value from: By.xpath: //span[contains(@class,'CurrentConditions--tempValue')]
-2020-11-03 14:40:31.016 INFO  reporter.Reporter - Current Temprature of City on UI: Delhi is 29
-2020-11-03 14:40:31.022 INFO  reporter.Reporter - Test Complete:- Step Passed 
-2020-11-03 14:41:23.149 INFO  reporter.Reporter - TestCase:- verifyTempratureSearchOnGUIPhase1() Started
-2020-11-03 14:41:23.157 INFO  reporter.Utils - Move Report to zip file
+2020-11-03 14:40:31.016 INFO  com.mts.reporter.Reporter - Current Temprature of City on UI: Delhi is 29
+2020-11-03 14:40:31.022 INFO  com.mts.reporter.Reporter - Test Complete:- Step Passed 
+2020-11-03 14:41:23.149 INFO  com.mts.reporter.Reporter - TestCase:- verifyTempratureSearchOnGUIPhase1() Started
+2020-11-03 14:41:23.157 INFO  com.mts.reporter.Utils - Move Report to zip file
 2020-11-03 14:41:24.795 DEBUG com.mts.pages.BasePage - Entering Textbox at location: By.id: LocationSearch_input
 2020-11-03 14:41:24.977 DEBUG com.mts.pages.BasePage - Checking for element is present at location: By.xpath: //div[contains(text(),'No results found')]
-2020-11-03 14:44:47.464 INFO  reporter.Reporter - TestCase:- verifyTempratureSearchOnGUIPhase1() Started
-2020-11-03 14:44:47.476 INFO  reporter.Utils - Move Report to zip file
+2020-11-03 14:44:47.464 INFO  com.mts.reporter.Reporter - TestCase:- verifyTempratureSearchOnGUIPhase1() Started
+2020-11-03 14:44:47.476 INFO  com.mts.reporter.Utils - Move Report to zip file
 2020-11-03 14:44:48.583 DEBUG com.mts.pages.BasePage - Entering Textbox at location: By.id: LocationSearch_input
 2020-11-03 14:44:48.822 DEBUG com.mts.pages.BasePage - Checking for element is present at location: By.xpath: //div[contains(text(),'No results found')]
-2020-11-03 14:50:30.389 INFO  reporter.Reporter - TestCase:- verifyTempratureSearchOnGUIPhase1() Started
-2020-11-03 14:50:30.401 INFO  reporter.Utils - Move Report to zip file
+2020-11-03 14:50:30.389 INFO  com.mts.reporter.Reporter - TestCase:- verifyTempratureSearchOnGUIPhase1() Started
+2020-11-03 14:50:30.401 INFO  com.mts.reporter.Utils - Move Report to zip file
 2020-11-03 14:50:38.636 DEBUG com.mts.pages.BasePage - Entering Textbox at location: By.id: LocationSearch_input
 2020-11-03 14:50:48.329 DEBUG com.mts.pages.BasePage - Checking for element is present at location: By.xpath: //div[contains(text(),'No results found')]
-2020-11-03 14:54:16.453 INFO  reporter.Reporter - TestCase:- verifyTempratureSearchOnGUIPhase1() Started
-2020-11-03 14:54:16.461 INFO  reporter.Utils - Move Report to zip file
+2020-11-03 14:54:16.453 INFO  com.mts.reporter.Reporter - TestCase:- verifyTempratureSearchOnGUIPhase1() Started
+2020-11-03 14:54:16.461 INFO  com.mts.reporter.Utils - Move Report to zip file
 2020-11-03 14:54:17.806 DEBUG com.mts.pages.BasePage - Entering Textbox at location: By.id: LocationSearch_input
 2020-11-03 14:54:24.524 DEBUG com.mts.pages.BasePage - Checking for element is present at location: By.xpath: //div[contains(text(),'No results found')]
 2020-11-03 14:55:19.365 DEBUG com.mts.pages.BasePage - Clicking on button at location: By.xpath: //button[@id='LocationSearch_listbox-0']
 2020-11-03 14:55:36.861 DEBUG com.mts.pages.BasePage - Getting Text value from: By.xpath: //span[contains(@class,'CurrentConditions--tempValue')]
-2020-11-03 18:31:17.283 INFO  reporter.Reporter - TestCase:- verifyTempratureSearchOnGUIPhase1() Started
-2020-11-03 18:31:17.291 INFO  reporter.Utils - Move Report to zip file
+2020-11-03 18:31:17.283 INFO  com.mts.reporter.Reporter - TestCase:- verifyTempratureSearchOnGUIPhase1() Started
+2020-11-03 18:31:17.291 INFO  com.mts.reporter.Utils - Move Report to zip file
 2020-11-03 18:31:19.624 DEBUG com.mts.pages.BasePage - Entering Textbox at location: By.id: LocationSearch_input
 2020-11-03 18:31:19.806 DEBUG com.mts.pages.BasePage - Checking for element is present at location: By.xpath: //div[contains(text(),'No results found')]
-2020-11-03 18:32:09.641 INFO  reporter.Reporter - TestCase:- verifyTempratureSearchOnGUIPhase1() Started
-2020-11-03 18:32:09.648 INFO  reporter.Utils - Move Report to zip file
+2020-11-03 18:32:09.641 INFO  com.mts.reporter.Reporter - TestCase:- verifyTempratureSearchOnGUIPhase1() Started
+2020-11-03 18:32:09.648 INFO  com.mts.reporter.Utils - Move Report to zip file
 2020-11-03 18:32:11.151 DEBUG com.mts.pages.BasePage - Entering Textbox at location: By.id: LocationSearch_input
 2020-11-03 18:32:25.160 DEBUG com.mts.pages.BasePage - Checking for element is present at location: By.xpath: //div[contains(text(),'No results found')]
-2020-11-03 18:35:26.123 INFO  reporter.Reporter - TestCase:- verifyTempratureSearchOnGUIPhase1() Started
-2020-11-03 18:35:26.130 INFO  reporter.Utils - Move Report to zip file
+2020-11-03 18:35:26.123 INFO  com.mts.reporter.Reporter - TestCase:- verifyTempratureSearchOnGUIPhase1() Started
+2020-11-03 18:35:26.130 INFO  com.mts.reporter.Utils - Move Report to zip file
 2020-11-03 18:35:28.356 DEBUG com.mts.pages.BasePage - Entering Textbox at location: By.id: LocationSearch_input
 2020-11-03 18:35:39.309 DEBUG com.mts.pages.BasePage - Checking for element is present at location: By.xpath: //div[contains(text(),'No results found')]
 2020-11-03 18:36:34.627 DEBUG com.mts.pages.BasePage - Clicking on button at location: By.xpath: //button[@id='LocationSearch_listbox-0']
 2020-11-03 18:36:36.087 DEBUG com.mts.pages.BasePage - Getting Text value from: By.xpath: //span[contains(@class,'CurrentConditions--tempValue')]
-2020-11-03 18:36:36.166 INFO  reporter.Reporter - Current Temprature of City on UI: Delhi is 24
-2020-11-03 18:36:36.170 INFO  reporter.Reporter - Test Complete:- Step Passed 
-2020-11-03 18:46:54.509 INFO  reporter.Reporter - TestCase:- verifyTempratureSearchOnGUIPhase1() Started
-2020-11-03 18:46:54.516 INFO  reporter.Utils - Move Report to zip file
+2020-11-03 18:36:36.166 INFO  com.mts.reporter.Reporter - Current Temprature of City on UI: Delhi is 24
+2020-11-03 18:36:36.170 INFO  com.mts.reporter.Reporter - Test Complete:- Step Passed 
+2020-11-03 18:46:54.509 INFO  com.mts.reporter.Reporter - TestCase:- verifyTempratureSearchOnGUIPhase1() Started
+2020-11-03 18:46:54.516 INFO  com.mts.reporter.Utils - Move Report to zip file
 2020-11-03 18:46:56.030 DEBUG com.mts.pages.BasePage - Entering Textbox at location: By.id: LocationSearch_input
 2020-11-03 18:46:56.218 DEBUG com.mts.pages.BasePage - Checking for element is present at location: By.xpath: //div[contains(text(),'No results found')]
-2020-11-03 18:48:04.869 INFO  reporter.Reporter - TestCase:- verifyTempratureSearchOnGUIPhase1() Started
-2020-11-03 18:48:04.875 INFO  reporter.Utils - Move Report to zip file
+2020-11-03 18:48:04.869 INFO  com.mts.reporter.Reporter - TestCase:- verifyTempratureSearchOnGUIPhase1() Started
+2020-11-03 18:48:04.875 INFO  com.mts.reporter.Utils - Move Report to zip file
 2020-11-03 18:48:06.358 DEBUG com.mts.pages.BasePage - Entering Textbox at location: By.id: LocationSearch_input
 2020-11-03 18:48:24.684 DEBUG com.mts.pages.BasePage - Checking for element is present at location: By.xpath: //div[contains(text(),'No results found')]
 2020-11-03 18:48:57.820 DEBUG com.mts.pages.BasePage - Clicking on button at location: By.xpath: //button[@id='LocationSearch_listbox-0']
 2020-11-03 18:49:00.651 DEBUG com.mts.pages.BasePage - Getting Text value from: By.xpath: //span[contains(@class,'CurrentConditions--tempValue')]
-2020-11-03 18:49:00.748 INFO  reporter.Reporter - Current Temprature of City on UI: Delhi is 24
-2020-11-03 18:49:00.754 INFO  reporter.Reporter - Test Complete:- Step Passed 
-2020-11-03 18:49:51.943 INFO  reporter.Reporter - TestCase:- verifyTempratureSearchOnGUIPhase1() Started
-2020-11-03 18:49:51.949 INFO  reporter.Utils - Move Report to zip file
+2020-11-03 18:49:00.748 INFO  com.mts.reporter.Reporter - Current Temprature of City on UI: Delhi is 24
+2020-11-03 18:49:00.754 INFO  com.mts.reporter.Reporter - Test Complete:- Step Passed 
+2020-11-03 18:49:51.943 INFO  com.mts.reporter.Reporter - TestCase:- verifyTempratureSearchOnGUIPhase1() Started
+2020-11-03 18:49:51.949 INFO  com.mts.reporter.Utils - Move Report to zip file
 2020-11-03 18:49:54.037 DEBUG com.mts.pages.BasePage - Entering Textbox at location: By.id: LocationSearch_input
 2020-11-03 18:50:06.426 DEBUG com.mts.pages.BasePage - Checking for element is present at location: By.xpath: //div[contains(text(),'No results found')]
 2020-11-03 18:50:30.394 DEBUG com.mts.pages.BasePage - Clicking on button at location: By.xpath: //button[@id='LocationSearch_listbox-0']
 2020-11-03 18:50:31.207 DEBUG com.mts.pages.BasePage - Getting Text value from: By.xpath: //span[contains(@class,'CurrentConditions--tempValue')]
-2020-11-03 18:50:31.276 INFO  reporter.Reporter - Current Temprature of City on UI: Delhi is 24
-2020-11-03 18:50:31.281 INFO  reporter.Reporter - Test Complete:- Step Passed 
-2020-11-03 18:53:32.728 INFO  reporter.Reporter - TestCase:- verifyTempratureSearchOnGUIPhase1() Started
-2020-11-03 18:53:32.734 INFO  reporter.Utils - Move Report to zip file
+2020-11-03 18:50:31.276 INFO  com.mts.reporter.Reporter - Current Temprature of City on UI: Delhi is 24
+2020-11-03 18:50:31.281 INFO  com.mts.reporter.Reporter - Test Complete:- Step Passed 
+2020-11-03 18:53:32.728 INFO  com.mts.reporter.Reporter - TestCase:- verifyTempratureSearchOnGUIPhase1() Started
+2020-11-03 18:53:32.734 INFO  com.mts.reporter.Utils - Move Report to zip file
 2020-11-03 18:53:34.838 DEBUG com.mts.pages.BasePage - Entering Textbox at location: By.id: LocationSearch_input
 2020-11-03 18:53:34.985 DEBUG com.mts.pages.BasePage - Checking for element is present at location: By.xpath: //div[contains(text(),'No results found')]
-2020-11-03 18:54:44.324 INFO  reporter.Reporter - TestCase:- verifyTempratureSearchOnGUIPhase1() Started
-2020-11-03 18:54:44.329 INFO  reporter.Utils - Move Report to zip file
+2020-11-03 18:54:44.324 INFO  com.mts.reporter.Reporter - TestCase:- verifyTempratureSearchOnGUIPhase1() Started
+2020-11-03 18:54:44.329 INFO  com.mts.reporter.Utils - Move Report to zip file
 2020-11-03 18:54:45.883 DEBUG com.mts.pages.BasePage - Entering Textbox at location: By.id: LocationSearch_input
 2020-11-03 18:54:46.066 DEBUG com.mts.pages.BasePage - Checking for element is present at location: By.xpath: //div[contains(text(),'No results found')]
-2020-11-03 18:56:49.169 INFO  reporter.Reporter - TestCase:- verifyTempratureSearchOnGUIPhase1() Started
-2020-11-03 18:56:49.175 INFO  reporter.Utils - Move Report to zip file
+2020-11-03 18:56:49.169 INFO  com.mts.reporter.Reporter - TestCase:- verifyTempratureSearchOnGUIPhase1() Started
+2020-11-03 18:56:49.175 INFO  com.mts.reporter.Utils - Move Report to zip file
 2020-11-03 18:56:50.783 DEBUG com.mts.pages.BasePage - Entering Textbox at location: By.id: LocationSearch_input
 2020-11-03 18:56:50.972 DEBUG com.mts.pages.BasePage - Checking for element is present at location: By.xpath: //div[contains(text(),'No results found')]
-2020-11-03 18:58:14.371 INFO  reporter.Reporter - TestCase:- verifyTempratureSearchOnGUIPhase1() Started
-2020-11-03 18:58:14.377 INFO  reporter.Utils - Move Report to zip file
+2020-11-03 18:58:14.371 INFO  com.mts.reporter.Reporter - TestCase:- verifyTempratureSearchOnGUIPhase1() Started
+2020-11-03 18:58:14.377 INFO  com.mts.reporter.Utils - Move Report to zip file
 2020-11-03 18:58:16.542 DEBUG com.mts.pages.BasePage - Entering Textbox at location: By.id: LocationSearch_input
 2020-11-03 18:58:16.699 DEBUG com.mts.pages.BasePage - Checking for element is present at location: By.xpath: //div[contains(text(),'No results found')]
-2020-11-03 18:59:39.767 INFO  reporter.Reporter - TestCase:- verifyTempratureSearchOnGUIPhase1() Started
-2020-11-03 18:59:39.773 INFO  reporter.Utils - Move Report to zip file
+2020-11-03 18:59:39.767 INFO  com.mts.reporter.Reporter - TestCase:- verifyTempratureSearchOnGUIPhase1() Started
+2020-11-03 18:59:39.773 INFO  com.mts.reporter.Utils - Move Report to zip file
 2020-11-03 18:59:41.470 DEBUG com.mts.pages.BasePage - Entering Textbox at location: By.id: LocationSearch_input
 2020-11-03 18:59:41.621 DEBUG com.mts.pages.BasePage - Checking for element is present at location: By.xpath: //div[contains(text(),'No results found')]
-2020-11-03 19:04:32.952 INFO  reporter.Reporter - TestCase:- verifyTempratureSearchOnGUIPhase1() Started
-2020-11-03 19:04:32.959 INFO  reporter.Utils - Move Report to zip file
+2020-11-03 19:04:32.952 INFO  com.mts.reporter.Reporter - TestCase:- verifyTempratureSearchOnGUIPhase1() Started
+2020-11-03 19:04:32.959 INFO  com.mts.reporter.Utils - Move Report to zip file
 2020-11-03 19:04:46.411 DEBUG com.mts.pages.BasePage - Entering Textbox at location: By.id: LocationSearch_input
 2020-11-03 19:04:46.593 DEBUG com.mts.pages.BasePage - Checking for element is present at location: By.xpath: //div[contains(text(),'No results found')]
-2020-11-03 19:05:04.259 INFO  reporter.Reporter - TestCase:- verifyTempratureSearchOnGUIPhase1() Started
-2020-11-03 19:05:04.265 INFO  reporter.Utils - Move Report to zip file
+2020-11-03 19:05:04.259 INFO  com.mts.reporter.Reporter - TestCase:- verifyTempratureSearchOnGUIPhase1() Started
+2020-11-03 19:05:04.265 INFO  com.mts.reporter.Utils - Move Report to zip file
 2020-11-03 19:05:06.067 DEBUG com.mts.pages.BasePage - Entering Textbox at location: By.id: LocationSearch_input
 2020-11-03 19:05:06.274 DEBUG com.mts.pages.BasePage - Checking for element is present at location: By.xpath: //div[contains(text(),'No results found')]
-2020-11-03 19:06:17.516 INFO  reporter.Reporter - TestCase:- verifyTempratureSearchOnGUIPhase1() Started
-2020-11-03 19:06:17.521 INFO  reporter.Utils - Move Report to zip file
+2020-11-03 19:06:17.516 INFO  com.mts.reporter.Reporter - TestCase:- verifyTempratureSearchOnGUIPhase1() Started
+2020-11-03 19:06:17.521 INFO  com.mts.reporter.Utils - Move Report to zip file
 2020-11-03 19:06:19.548 DEBUG com.mts.pages.BasePage - Entering Textbox at location: By.id: LocationSearch_input
 2020-11-03 19:06:19.689 DEBUG com.mts.pages.BasePage - Checking for element is present at location: By.xpath: //div[contains(text(),'No results found')]
-2020-11-03 19:08:56.721 INFO  reporter.Reporter - TestCase:- verifyTempratureSearchOnGUIPhase1() Started
-2020-11-03 19:08:56.723 INFO  reporter.Utils - Move Report to zip file
+2020-11-03 19:08:56.721 INFO  com.mts.reporter.Reporter - TestCase:- verifyTempratureSearchOnGUIPhase1() Started
+2020-11-03 19:08:56.723 INFO  com.mts.reporter.Utils - Move Report to zip file
 2020-11-03 19:08:58.894 DEBUG com.mts.pages.BasePage - Entering Textbox at location: By.id: LocationSearch_input
 2020-11-03 19:08:59.166 DEBUG com.mts.pages.BasePage - Checking for element is present at location: By.xpath: //div[contains(text(),'No results found')]
-2020-11-03 19:09:55.810 INFO  reporter.Reporter - TestCase:- verifyTempratureSearchOnGUIPhase1() Started
-2020-11-03 19:09:55.832 INFO  reporter.Utils - Move Report to zip file
+2020-11-03 19:09:55.810 INFO  com.mts.reporter.Reporter - TestCase:- verifyTempratureSearchOnGUIPhase1() Started
+2020-11-03 19:09:55.832 INFO  com.mts.reporter.Utils - Move Report to zip file
 2020-11-03 19:10:05.665 DEBUG com.mts.pages.BasePage - Entering Textbox at location: By.id: LocationSearch_input
 2020-11-03 19:10:05.950 DEBUG com.mts.pages.BasePage - Checking for element is present at location: By.xpath: //div[contains(text(),'No results found')]
-2020-11-03 19:11:40.347 INFO  reporter.Reporter - TestCase:- verifyTempratureSearchOnGUIPhase1() Started
-2020-11-03 19:11:40.356 INFO  reporter.Utils - Move Report to zip file
+2020-11-03 19:11:40.347 INFO  com.mts.reporter.Reporter - TestCase:- verifyTempratureSearchOnGUIPhase1() Started
+2020-11-03 19:11:40.356 INFO  com.mts.reporter.Utils - Move Report to zip file
 2020-11-03 19:11:42.371 DEBUG com.mts.pages.BasePage - Entering Textbox at location: By.id: LocationSearch_input
 2020-11-03 19:11:42.541 DEBUG com.mts.pages.BasePage - Checking for element is present at location: By.xpath: //div[contains(text(),'No results found')]
-2020-11-03 19:12:07.209 INFO  reporter.Reporter - TestCase:- verifyTempratureSearchOnGUIPhase1() Started
-2020-11-03 19:12:07.219 INFO  reporter.Utils - Move Report to zip file
+2020-11-03 19:12:07.209 INFO  com.mts.reporter.Reporter - TestCase:- verifyTempratureSearchOnGUIPhase1() Started
+2020-11-03 19:12:07.219 INFO  com.mts.reporter.Utils - Move Report to zip file
 2020-11-03 19:12:08.608 DEBUG com.mts.pages.BasePage - Entering Textbox at location: By.id: LocationSearch_input
 2020-11-03 19:12:08.814 DEBUG com.mts.pages.BasePage - Checking for element is present at location: By.xpath: //div[contains(text(),'No results found')]
 2020-11-03 19:13:06.702 DEBUG com.mts.pages.BasePage - Clicking on button at location: By.xpath: //button[@id='LocationSearch_listbox-0']
 2020-11-03 19:13:10.702 DEBUG com.mts.pages.BasePage - Getting Text value from: By.xpath: //span[contains(@class,'CurrentConditions--tempValue')]
-2020-11-03 19:13:10.800 INFO  reporter.Reporter - Current Temprature of City on UI: Delhi is 23
-2020-11-03 19:13:10.806 INFO  reporter.Reporter - Test Complete:- Step Passed 
-2020-11-03 19:15:34.306 INFO  reporter.Reporter - TestCase:- verifyTempratureSearchOnGUIPhase1() Started
-2020-11-03 19:15:34.314 INFO  reporter.Utils - Move Report to zip file
+2020-11-03 19:13:10.800 INFO  com.mts.reporter.Reporter - Current Temprature of City on UI: Delhi is 23
+2020-11-03 19:13:10.806 INFO  com.mts.reporter.Reporter - Test Complete:- Step Passed 
+2020-11-03 19:15:34.306 INFO  com.mts.reporter.Reporter - TestCase:- verifyTempratureSearchOnGUIPhase1() Started
+2020-11-03 19:15:34.314 INFO  com.mts.reporter.Utils - Move Report to zip file
 2020-11-03 19:15:36.486 DEBUG com.mts.pages.BasePage - Entering Textbox at location: By.id: LocationSearch_input
 2020-11-03 19:15:36.707 DEBUG com.mts.pages.BasePage - Checking for element is present at location: By.xpath: //div[contains(text(),'No results found')]
 2020-11-03 19:16:11.868 DEBUG com.mts.pages.BasePage - Clicking on button at location: By.xpath: //button[@id='LocationSearch_listbox-0']
 2020-11-03 19:16:12.880 DEBUG com.mts.pages.BasePage - Getting Text value from: By.xpath: //span[contains(@class,'CurrentConditions--tempValue')]
-2020-11-03 19:16:12.961 INFO  reporter.Reporter - Current Temprature of City on UI: Delhi is 23
-2020-11-03 19:16:12.967 INFO  reporter.Reporter - Test Complete:- Step Passed 
-2020-11-03 19:18:07.001 INFO  reporter.Reporter - TestCase:- verifyTempratureSearchOnGUIPhase1() Started
-2020-11-03 19:18:07.016 INFO  reporter.Utils - Move Report to zip file
+2020-11-03 19:16:12.961 INFO  com.mts.reporter.Reporter - Current Temprature of City on UI: Delhi is 23
+2020-11-03 19:16:12.967 INFO  com.mts.reporter.Reporter - Test Complete:- Step Passed 
+2020-11-03 19:18:07.001 INFO  com.mts.reporter.Reporter - TestCase:- verifyTempratureSearchOnGUIPhase1() Started
+2020-11-03 19:18:07.016 INFO  com.mts.reporter.Utils - Move Report to zip file
 2020-11-03 19:18:09.010 DEBUG com.mts.pages.BasePage - Entering Textbox at location: By.id: LocationSearch_input
 2020-11-03 19:18:09.180 DEBUG com.mts.pages.BasePage - Checking for element is present at location: By.xpath: //div[contains(text(),'No results found')]
 2020-11-03 19:18:16.420 DEBUG com.mts.pages.BasePage - Clicking on button at location: By.xpath: //button[@id='LocationSearch_listbox-0']
 2020-11-03 19:18:18.339 DEBUG com.mts.pages.BasePage - Getting Text value from: By.xpath: //span[contains(@class,'CurrentConditions--tempValue')]
-2020-11-03 19:18:18.449 INFO  reporter.Reporter - Current Temprature of City on UI: Delhi is 23
-2020-11-03 19:18:18.451 INFO  reporter.Reporter - Test Complete:- Step Passed 
+2020-11-03 19:18:18.449 INFO  com.mts.reporter.Reporter - Current Temprature of City on UI: Delhi is 23
+2020-11-03 19:18:18.451 INFO  com.mts.reporter.Reporter - Test Complete:- Step Passed 
