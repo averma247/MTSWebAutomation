@@ -1,2 +1,0 @@
-# MTSWebAutomation
-Web Automation 
