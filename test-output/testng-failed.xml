@@ -3,7 +3,7 @@
 <suite thread-count="-1" guice-stage="DEVELOPMENT" name="Failed suite [Default suite]">
   <test name="Default test(failed)">
     <classes>
-      <class name="weatherreporttest.WeatherReportTest">
+      <class name="com.mts.test.WeatherReportTest">
         <methods>
           <include name="verifyTempratureSearchOnGUIPhase1" invocation-numbers="0"/>
           <include name="setup"/>
@@ -12,7 +12,7 @@
           <include name="init"/>
           <include name="cleanup"/>
         </methods>
-      </class> <!-- weatherreporttest.WeatherReportTest -->
+      </class> <!-- com.mts.test.WeatherReportTest -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->

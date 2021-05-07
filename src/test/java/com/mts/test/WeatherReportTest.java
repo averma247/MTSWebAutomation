@@ -1,4 +1,4 @@
-package weatherreporttest;
+package com.mts.test;
 
 import java.io.Reader;
 import java.nio.file.Files;

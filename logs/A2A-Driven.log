@@ -53,13 +53,13 @@
 2021-05-07 13:44:32.168 INFO  com.mts.reporter.Reporter - Current Temprature of City on UI: Texas is 20&#176C:- Step Passed 
 2021-05-07 13:44:32.168 INFO  com.mts.reporter.Reporter - Varience Value: 4
 2021-05-07 13:44:32.170 INFO  com.mts.reporter.Reporter - Test Complete:- Step Passed 
-2021-05-07 14:00:10.132 DEBUG weatherreporttest.WeatherReportTest - Inside before class method: WeatherReportTest
+2021-05-07 14:00:10.132 DEBUG com.mts.test.WeatherReportTest - Inside before class method: WeatherReportTest
 2021-05-07 14:00:10.195 INFO  com.mts.reporter.Reporter - TestCase:- verifyTempratureSearchOnGUIPhase1 Started
 2021-05-07 14:00:10.197 INFO  com.mts.reporter.Utils - Move Report to zip file
 2021-05-07 14:00:10.318 INFO  com.mts.reporter.Reporter - Checking the temprature for city: Delhi
 2021-05-07 14:00:14.601 DEBUG com.framework.core.BasePage - Entering Textbox at location: By.id: LocationSearch_input
 2021-05-07 14:00:14.991 DEBUG com.framework.core.BasePage - Checking for element is present at location: By.xpath: //div[contains(text(),'No results found')]
-2021-05-07 14:03:51.643 DEBUG weatherreporttest.WeatherReportTest - Inside before class method: WeatherReportTest
+2021-05-07 14:03:51.643 DEBUG com.mts.test.WeatherReportTest - Inside before class method: WeatherReportTest
 2021-05-07 14:04:33.616 INFO  com.mts.reporter.Reporter - TestCase:- verifyTempratureSearchOnGUIPhase1 Started
 2021-05-07 14:04:33.631 INFO  com.mts.reporter.Utils - Move Report to zip file
 2021-05-07 14:05:02.272 INFO  com.mts.reporter.Reporter - Checking the temprature for city: Delhi
